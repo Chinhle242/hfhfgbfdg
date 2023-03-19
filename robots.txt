@@ -1,0 +1,31 @@
+User-Agent: *
+Allow: /
+Disallow: /skin/vuap/
+Disallow: /ep/
+Disallow: /download/
+Disallow: /thong-tin/dem-trang-18+--bach-da-hanh-18+-_208.html
+Disallow: /thong-tin/sex-is-zero-2_205.html
+Disallow: /xem-phim/online/tinh-duc-la-chuyen-nho-2_5922.html 
+Disallow: /thong-tin/tinh-duc-la-chuyen-nho-2-18+-_205.html
+Disallow: /xem-phim/online/chang-trai-co-gai-va-buc-tuong-18+-_7082.html
+Disallow: /thong-tin/chang-trai-co-gai-va-buc-tuong-18+-_250.html
+Disallow: /thong-tin/man-woman-and-the-wall_250.html
+Disallow: /xem-phim/online/yeu-nu-ben-ho-18+-_6904.html
+Disallow: /thong-tin/yeu-nu-ben-ho-18+-_241.html
+Disallow: /xem-phim/online/nguoi-trong-mong-2-18+-_5133.html
+Disallow: /thong-tin/nguoi-trong-mong-2_176.html
+Disallow: /xem-phim/online/nguoi-trong-mong-2-18+-_5139.html
+Disallow: /thong-tin/nguoi-trong-mong-2-18+-_176.html
+Disallow: /thong-tin/spread-18+-_243.html
+Disallow: /xem-phim/online/sai-canh_7445.html
+Disallow: /thong-tin/ma-nu-da-tinh-18+-_150.html
+Disallow: /xem-phim/online/ky-nu-da-tinh-18+-_4531.html
+Disallow: /xem-phim/online/ky-nu-da-tinh-18+-_4523.html
+Disallow: /xem-phim/online/ky-nu-da-tinh-18+-_4498.html
+Disallow: /thong-tin/ky-nu-da-tinh-18+-_150.html
+Disallow: /thong-tin/toi-con-trinh_198.html
+Disallow: /xem-phim/online/toi-con-trinh_5368.html
+Disallow: /thong-tin/toi-con-trinh-18+-_198.html
+# BEGIN XML-SITEMAP-PLUGIN
+Sitemap: http://phimnhanh360.com/sitemap.xml
+# END XML-SITEMAP-PLUGIN

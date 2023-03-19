@@ -1,0 +1,15 @@
+			 <div class="block list_films">
+				<h2 class="title">Phim Cùng Thể Loại</h2>
+			<div class="content"> 
+            
+					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/sung-kyunk-wan-scandal_180.html" title="Sung kyunk wan Scandal"><img src="http://img.tamtay.vn/files/photo2/2010/9/2/18/1347935/4c7f8e10_1dd9ec7c_sungkyunkwan-scandal-poster.jpg" alt="Sung kyunk wan Scandal" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/sung-kyunk-wan-scandal_180.html" alt="{film.NAME}" title="Sung kyunk wan Scandal"> Sung kyunk wan ...</a></p>
+                						<p class="views">Lượt xem: 9084</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/nu-hoang-son-doc_334.html" title="Nữ Hoàng Sơn Đớc - Queen Seon Duk"><img src="http://1.bp.blogspot.com/_gwmTzAUKfLs/TL_eNV3O-7I/AAAAAAAAAAY/WX8cARque_w/s320/queen.png" alt="Nữ Hoàng Sơn Đớc - Queen Seon Duk" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/nu-hoang-son-doc_334.html" alt="{film.NAME}" title="Nữ Hoàng Sơn Đớc - Queen Seon Duk"> Nữ Hoàng Sơn ...</a></p>
+                						<p class="views">Lượt xem: 1405</p></li>
+</div></div>
+<div class="clear"></div>

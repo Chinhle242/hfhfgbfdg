@@ -1,0 +1,55 @@
+			 <div class="block list_films">
+				<h2 class="title">Phim Cùng Thể Loại</h2>
+			<div class="content"> 
+            
+					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/ke-nguy-hiem_81.html" title="Kẻ Nguy Hiểm - A Dangerous Man"><img src="http://img.tamtay.vn/files/photo2/2010/8/15/20/750297/4c67ef9f_060d25d1_a-dangerous-man.jpg" alt="Kẻ Nguy Hiểm - A Dangerous Man" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/ke-nguy-hiem_81.html" alt="{film.NAME}" title="Kẻ Nguy Hiểm - A Dangerous Man"> Kẻ Nguy Hiểm ...</a></p>
+                						<p class="views">Lượt xem: 1377</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/mot-lan-lam-gang-to_62.html" title="Một Lần Làm Găng Tơ - Once A Gangster"><img src="http://img.tamtay.vn/files/photo2/2010/8/13/15/750297/4c64febe_4e118dcf_once-a-gangster%20.jpg" alt="Một Lần Làm Găng Tơ - Once A Gangster" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/mot-lan-lam-gang-to_62.html" alt="{film.NAME}" title="Một Lần Làm Găng Tơ - Once A Gangster"> Một Lần Làm ...</a></p>
+                						<p class="views">Lượt xem: 621</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/binh-doan-la-ma_60.html" title="Binh Đoàn La Mã - Centurion"><img src="http://img.tamtay.vn/files/photo2/2010/8/12/23/1227809/4c641aca_70567c03_centurion-poster.jpg" alt="Binh Đoàn La Mã - Centurion" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/binh-doan-la-ma_60.html" alt="{film.NAME}" title="Binh Đoàn La Mã - Centurion"> Binh Đoàn La ...</a></p>
+                						<p class="views">Lượt xem: 4890</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/diet-mon_65.html" title="Diệt Môn - Bad Blood"><img src="http://img.tamtay.vn/files/photo2/2010/8/13/16/750297/4c650b22_4ca8d0c5_bad-blood-poster.jpg" alt="Diệt Môn - Bad Blood" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/diet-mon_65.html" alt="{film.NAME}" title="Diệt Môn - Bad Blood"> Diệt Môn - ...</a></p>
+                						<p class="views">Lượt xem: 1095</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/robot-dai-chien-1_63.html" title="Robot Đại Chiến 1 - Transformers 1"><img src="http://img.tamtay.vn/files/photo2/2010/8/13/15/750297/4c65001c_2b397b0e_transformers.jpg" alt="Robot Đại Chiến 1 - Transformers 1" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/robot-dai-chien-1_63.html" alt="{film.NAME}" title="Robot Đại Chiến 1 - Transformers 1"> Robot Đại Chiến ...</a></p>
+                						<p class="views">Lượt xem: 1283</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/danh-cap-giac-mo_59.html" title="Đánh Cấp Giấc Mơ - Inception"><img src="http://img.tamtay.vn/files/photo2/2010/8/12/22/1227809/4c641a21_35392e27_inception-poster.jpg" alt="Đánh Cấp Giấc Mơ - Inception" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/danh-cap-giac-mo_59.html" alt="{film.NAME}" title="Đánh Cấp Giấc Mơ - Inception"> Đánh Cấp Giấc ...</a></p>
+                						<p class="views">Lượt xem: 1846</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/transformers-3_64.html" title="Transformers 3"><img src="http://img.tamtay.vn/files/photo2/2010/8/13/15/1227809/4c650511_4de772f8_transformers-3-poster.jpg" alt="Transformers 3" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/transformers-3_64.html" alt="{film.NAME}" title="Transformers 3">Transformers 3</a></p>
+                						<p class="views">Lượt xem: 3148</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/toi-ac_61.html" title="Tội Ác - Caught In The Crossfire"><img src="http://img.tamtay.vn/files/photo2/2010/8/13/6/750297/4c6489af_04ada402_caught-in-the-crossfire.jpg" alt="Tội Ác - Caught In The Crossfire" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/toi-ac_61.html" alt="{film.NAME}" title="Tội Ác - Caught In The Crossfire"> Tội Ác - ...</a></p>
+                						<p class="views">Lượt xem: 1016</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/thuong-hai-2010_8.html" title="Thượng Hải 2010 - Shanghai 2010"><img src="http://img.tamtay.vn/files/photo2/2010/7/30/10/1227809/4c5248e4_4366be96_thuong-hai-2010-poster.jpg" alt="Thượng Hải 2010 - Shanghai 2010" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/thuong-hai-2010_8.html" alt="{film.NAME}" title="Thượng Hải 2010 - Shanghai 2010"> Thượng Hải 2010 ...</a></p>
+                						<p class="views">Lượt xem: 1174</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/hoang-tu-ba-tu_55.html" title="Hoàng Tử Ba Tư - Prince Of Persia: Sands Of Time"><img src="http://img.tamtay.vn/files/photo2/2010/8/12/19/1227809/4c63e50d_7bb2bba6_prince-of-persia-sands-of-time-poster.jpg" alt="Hoàng Tử Ba Tư - Prince Of Persia: Sands Of Time" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/hoang-tu-ba-tu_55.html" alt="{film.NAME}" title="Hoàng Tử Ba Tư - Prince Of Persia: Sands Of Time"> Hoàng Tử Ba ...</a></p>
+                						<p class="views">Lượt xem: 2384</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/2012_54.html" title="2012 - Năm Đại Họa"><img src="http://img.tamtay.vn/files/photo2/2010/8/12/15/750297/4c63adc6_4e33dbf3_2012-2009.jpg" alt="2012 - Năm Đại Họa" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/2012_54.html" alt="{film.NAME}" title="2012 - Năm Đại Họa"> 2012 - Năm ...</a></p>
+                						<p class="views">Lượt xem: 1400</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/cau-be-bien-hinh-2_47.html" title="Cậu Bé Biến Hình 2 - Ben 10: Alien Swarm"><img src="http://img.tamtay.vn/files/photo2/2010/8/10/17/750297/4c612c36_6991ecf1_ben-10-alien-swarm-poster.jpg" alt="Cậu Bé Biến Hình 2 - Ben 10: Alien Swarm" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/cau-be-bien-hinh-2_47.html" alt="{film.NAME}" title="Cậu Bé Biến Hình 2 - Ben 10: Alien Swarm"> Cậu Bé Biến ...</a></p>
+                						<p class="views">Lượt xem: 1200</p></li>
+</div></div>
+<div class="clear"></div>

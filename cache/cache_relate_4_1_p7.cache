@@ -1,0 +1,55 @@
+			 <div class="block list_films">
+				<h2 class="title">Phim Cùng Thể Loại</h2>
+			<div class="content"> 
+            
+					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/moi-tinh-dau-cua-trieu-phu_172.html" title="Mối Tình Đầu Của Triệu Phú - A Millionaire Is First Love"><img src="http://img.tamtay.vn/files/photo2/2010/8/30/22/750297/4c7bd032_3e4b7dc1_a-millionaire-first-love.jpg" alt="Mối Tình Đầu Của Triệu Phú - A Millionaire Is First Love" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/moi-tinh-dau-cua-trieu-phu_172.html" alt="{film.NAME}" title="Mối Tình Đầu Của Triệu Phú - A Millionaire Is First Love"> Mối Tình Đầu ...</a></p>
+                						<p class="views">Lượt xem: 1082</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/chit-va-pi_164.html" title="Chít Và Pi - Chit Va Pi"><img src="http://img.tamtay.vn/files/photo2/2010/8/29/23/1347935/4c7a8a00_4dd4a57d_chit-va-pi.jpg" alt="Chít Và Pi - Chit Va Pi" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/chit-va-pi_164.html" alt="{film.NAME}" title="Chít Và Pi - Chit Va Pi"> Chít Và Pi ...</a></p>
+                						<p class="views">Lượt xem: 1099</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/gia-dinh-la-so-1_50.html" title="Gia Đình Là Số 1 - The Unstoppable High Kick - 거침없이 하이킥"><img src="http://img.tamtay.vn/files/photo2/2010/8/25/9/1347935/4c747f9e_715b2a9d_gia-dinh-la-so-1.jpg" alt="Gia Đình Là Số 1 - The Unstoppable High Kick - 거침없이 하이킥" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/gia-dinh-la-so-1_50.html" alt="{film.NAME}" title="Gia Đình Là Số 1 - The Unstoppable High Kick - 거침없이 하이킥"> Gia Đình Là ...</a></p>
+                						<p class="views">Lượt xem: 1156</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/man-cam_140.html" title="Mẫn Cảm - Greenberg"><img src="http://img.tamtay.vn/files/photo2/2010/8/27/11/1347935/4c773c80_38b0ddaa_greenberg.jpg" alt="Mẫn Cảm - Greenberg" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/man-cam_140.html" alt="{film.NAME}" title="Mẫn Cảm - Greenberg"> Mẫn Cảm - ...</a></p>
+                						<p class="views">Lượt xem: 394</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/nhat-thuc_58.html" title="Nhật Thực - The Twilight Saga: Eclipse"><img src="http://www.dixmovie.com/wp-content/uploads/2010/03/The-Twilight-Saga-Eclipse-Official-Poster.jpg" alt="Nhật Thực - The Twilight Saga: Eclipse" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/nhat-thuc_58.html" alt="{film.NAME}" title="Nhật Thực - The Twilight Saga: Eclipse"> Nhật Thực - ...</a></p>
+                						<p class="views">Lượt xem: 1362</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/huong-vi-tinh-yeu_72.html" title="Hương Vị Tình Yêu - 파스타 - Pasta"><img src="http://img.tamtay.vn/files/photo2/2010/8/28/11/1347935/4c789504_063fac4b_pasta-poster.gif" alt="Hương Vị Tình Yêu - 파스타 - Pasta" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/huong-vi-tinh-yeu_72.html" alt="{film.NAME}" title="Hương Vị Tình Yêu - 파스타 - Pasta"> Hương Vị Tình ...</a></p>
+                						<p class="views">Lượt xem: 2278</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/personal-taste_144.html" title="Personal Taste"><img src="http://img.tamtay.vn/files/photo2/2010/8/27/19/1347935/4c77abd5_5bd06ac7_personal-taste-poster.jpg" alt="Personal Taste" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/personal-taste_144.html" alt="{film.NAME}" title="Personal Taste">Personal Taste</a></p>
+                						<p class="views">Lượt xem: 4120</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/niem-khuc-cuoi_45.html" title="Niệm Khúc Cuối - The Last Song"><img src="http://img.tamtay.vn/files/photo2/2010/8/26/0/750297/4c755841_11497d68_the_last_song.jpg" alt="Niệm Khúc Cuối - The Last Song" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/niem-khuc-cuoi_45.html" alt="{film.NAME}" title="Niệm Khúc Cuối - The Last Song"> Niệm Khúc Cuối ...</a></p>
+                						<p class="views">Lượt xem: 1127</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/chi-gia-lo-lem_126.html" title="Chị Giá Lọ Lem - Cinderella's Sister - 신데렐라 언니 2010"><img src="http://img.tamtay.vn/files/photo2/2010/8/25/19/1347935/4c7509c5_62435202_chi-gai-lo-lem.jpg" alt="Chị Giá Lọ Lem - Cinderella's Sister - 신데렐라 언니 2010" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/chi-gia-lo-lem_126.html" alt="{film.NAME}" title="Chị Giá Lọ Lem - Cinderella's Sister - 신데렐라 언니 2010"> Chị Giá Lọ ...</a></p>
+                						<p class="views">Lượt xem: 1465</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/ba-tam-xu-my-3_125.html" title="Bà Tám Xứ Mỹ 3 - Gossip Girl Season III"><img src="http://img.tamtay.vn/files/photo2/2010/8/25/19/1347935/4c750674_23f2ccca_gossipgirl2010.jpg" alt="Bà Tám Xứ Mỹ 3 - Gossip Girl Season III" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/ba-tam-xu-my-3_125.html" alt="{film.NAME}" title="Bà Tám Xứ Mỹ 3 - Gossip Girl Season III"> Bà Tám Xứ ...</a></p>
+                						<p class="views">Lượt xem: 1015</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/tinh-yeu-khong-gioi-han_38.html" title="Tình Yêu Không Giới Hạn - Heading To The Ground"><img src="http://img.tamtay.vn/files/photo2/2010/8/25/9/1347935/4c747fc5_7159e525_tinh-yeu-khong-gioi-han--heading-to-the-ground.jpg" alt="Tình Yêu Không Giới Hạn - Heading To The Ground" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/tinh-yeu-khong-gioi-han_38.html" alt="{film.NAME}" title="Tình Yêu Không Giới Hạn - Heading To The Ground"> Tình Yêu Không ...</a></p>
+                						<p class="views">Lượt xem: 2091</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/truyen-tich-than-ky_36.html" title="Truyền Tích Thần Kỳ - Legend Of The Demigods"><img src="http://img.tamtay.vn/files/photo2/2010/8/25/9/1347935/4c747f43_725d7c49_truyen-tich-than-ky--truyen-tich-tam-thien-nhai.jpg" alt="Truyền Tích Thần Kỳ - Legend Of The Demigods" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/truyen-tich-than-ky_36.html" alt="{film.NAME}" title="Truyền Tích Thần Kỳ - Legend Of The Demigods"> Truyền Tích Thần ...</a></p>
+                						<p class="views">Lượt xem: 2649</p></li>
+</div></div>
+<div class="clear"></div>

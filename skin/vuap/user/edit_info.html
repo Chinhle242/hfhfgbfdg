@@ -1,0 +1,70 @@
+<div class="box">
+            <div class="btitle">
+ 				<h2>Sửa thông tin cá nhân</h2>
+
+              
+                <div class="clear"></div>
+           	</div>
+			<div style="margin:5px; 15px;">
+    
+{ERROR}
+<form  method="post">
+	<table>
+		<tr>
+			<td>Tên đăng nhập:</td>
+			<td><b>{USER.NAME}</b></td>
+		</tr>
+		<tr>
+			<td>Mật khẩu:</td>
+			<td><input  type="password" id="pass" name="pass" maxlength="30" size="25"> <span class="note">*</span></td>
+		</tr>
+		<tr>
+			<td>Email:</td>
+			<td><input  type="text" value="{MAIL}" id="email" name="email" maxlength="250" size="25"> <span class="note">*</span></td>
+		</tr>	
+		<tr>
+			<td>Tên thật của bạn:</td>
+			<td><input type="text" value="{NAME.REAL}" name="namereal" id="namereal"  size="25" ></td>
+		</tr>
+		<tr>
+			<td>Ngày sinh </td>
+			<td><input type="text" value="{BIRTHDAY}" name="birthday"  id="birthday" size="25" ></td>
+		</tr>
+		<tr>
+			<td>Giới Tính</td>
+			<td>{GENDER}</td>
+		</tr>		
+		<tr>
+			<td>Homepage:</td>
+			<td><input type="text" value="{HOMEPAGE}" name="homepage"  id="homepage" size="25" ></td>
+		</tr>
+		<tr>
+			<td>Yahoo:</td>
+			<td><input type="text" value="{YAHOO}" name="yahoo" id="yahoo"  size="25" ></td>
+		</tr>	
+		<tr>
+			<td>MSN:</td>
+			<td><input type="text" value="{MSN}" name="msn" id="msn"  size="25" ></td>
+		</tr>	
+		<tr>
+			<td>Skype:</td>
+			<td><input type="text" value="{SKYPE}" name="skype"  id="skype" size="25" ></td>
+		</tr>	
+		<tr>
+			<td>Avatar:</td>
+			<td><input type="text" value="{AVATAR}" name="avatar" id="avatar"  size="25" ></td>
+		</tr>			
+		<tr>
+			<td>Comment:</td>
+			<td><textarea name="intro" id="intro" cols="25" rows="3">{INTRO}</textarea></td>
+		</tr>														
+		<tr>
+			<td colspan="2" style="padding-top:15px;" align="center"><input type="submit" name="submit" id="submit" value="Submit">
+			&nbsp;<input type="reset" value="Reset"></td>
+		</tr>										
+	</table>
+</form>
+			
+			</div>			
+                <div class="clear_left"></div>
+</div>

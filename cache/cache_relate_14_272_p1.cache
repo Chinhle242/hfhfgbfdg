@@ -1,0 +1,19 @@
+			 <div class="block list_films">
+				<h2 class="title">Phim Cùng Thể Loại</h2>
+			<div class="content"> 
+            
+					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/vi-thanh-tra-2-mat_215.html" title="Vị Thanh Tra 2 Mặt - Joker Yurusarezaru Sosakan"><img src="http://1.bp.blogspot.com/_o5eqZU8vsfw/TJ8xgFacbiI/AAAAAAAAAFY/fVprjDDdz9A/s1600/Joker-Yurusarezaru-Sosakan.jpg" alt="Vị Thanh Tra 2 Mặt - Joker Yurusarezaru Sosakan" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/vi-thanh-tra-2-mat_215.html" alt="{film.NAME}" title="Vị Thanh Tra 2 Mặt - Joker Yurusarezaru Sosakan"> Vị Thanh Tra ...</a></p>
+                						<p class="views">Lượt xem: 453</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/tinh-bao_169.html" title="Tình Báo - Rendition"><img src="http://img.tamtay.vn/files/photo2/2010/8/30/22/750297/4c7bce5f_5def95cb_rendition.jpg" alt="Tình Báo - Rendition" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/tinh-bao_169.html" alt="{film.NAME}" title="Tình Báo - Rendition"> Tình Báo - ...</a></p>
+                						<p class="views">Lượt xem: 315</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/canh-sat-dan-choi_145.html" title="Cảnh Sát Dân Chơi - Playboy Cops"><img src="http://cA7.upanh.com/12.387.16618071.XVO0/canh_sat_dan_choi.jpg" alt="Cảnh Sát Dân Chơi - Playboy Cops" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/canh-sat-dan-choi_145.html" alt="{film.NAME}" title="Cảnh Sát Dân Chơi - Playboy Cops"> Cảnh Sát Dân ...</a></p>
+                						<p class="views">Lượt xem: 635</p></li>
+</div></div>
+<div class="clear"></div>

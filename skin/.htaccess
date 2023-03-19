@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^(.*).html$ "http://vuaphim.vn/index.php"

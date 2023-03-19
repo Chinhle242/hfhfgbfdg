@@ -1,0 +1,15 @@
+			 <div class="block list_films">
+				<h2 class="title">Phim Cùng Thể Loại</h2>
+			<div class="content"> 
+            
+					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/nu-hoang-son-doc_334.html" title="Nữ Hoàng Sơn Đớc - Queen Seon Duk"><img src="http://1.bp.blogspot.com/_gwmTzAUKfLs/TL_eNV3O-7I/AAAAAAAAAAY/WX8cARque_w/s320/queen.png" alt="Nữ Hoàng Sơn Đớc - Queen Seon Duk" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/nu-hoang-son-doc_334.html" alt="{film.NAME}" title="Nữ Hoàng Sơn Đớc - Queen Seon Duk"> Nữ Hoàng Sơn ...</a></p>
+                						<p class="views">Lượt xem: 1406</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/tan-luu-tinh-ho-diep-kiem-2010_315.html" title="Tân Lưu Tinh Hồ Điệp Kiếm 2010 - Tân Lưu Tinh Hồ Điệp Kiếm"><img src="http://4.bp.blogspot.com/_2chwtc8RoJ0/TLdHEQpR10I/AAAAAAAAAKI/AUp8AT0ASe0/s1600/Luu+Tinh+Ho+Diep+Kiem.jpg" alt="Tân Lưu Tinh Hồ Điệp Kiếm 2010 - Tân Lưu Tinh Hồ Điệp Kiếm" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/tan-luu-tinh-ho-diep-kiem-2010_315.html" alt="{film.NAME}" title="Tân Lưu Tinh Hồ Điệp Kiếm 2010 - Tân Lưu Tinh Hồ Điệp Kiếm"> Tân Lưu Tinh ...</a></p>
+                						<p class="views">Lượt xem: 5340</p></li>
+</div></div>
+<div class="clear"></div>

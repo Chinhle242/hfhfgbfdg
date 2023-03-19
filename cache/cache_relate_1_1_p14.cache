@@ -1,0 +1,27 @@
+			 <div class="block list_films">
+				<h2 class="title">Phim Cùng Thể Loại</h2>
+			<div class="content"> 
+            
+					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/biet-doi-hanh-dong_40.html" title="Biệt Đội Hành Động - The A-Team"><img src="http://img.tamtay.vn/files/photo2/2010/8/9/9/1227809/4c5f6334_2bda3a2b_biet-doi-hanh-dong-poster.jpg" alt="Biệt Đội Hành Động - The A-Team" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/biet-doi-hanh-dong_40.html" alt="{film.NAME}" title="Biệt Đội Hành Động - The A-Team"> Biệt Đội Hành ...</a></p>
+                						<p class="views">Lượt xem: 1268</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/quyen-thuat-ba-vuong_35.html" title="Quyền Thuật Bá Vương - Tekken"><img src="http://img.tamtay.vn/files/photo2/2010/8/8/12/750297/4c5e3eb5_33be8f9e_tekken-poster.jpg" alt="Quyền Thuật Bá Vương - Tekken" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/quyen-thuat-ba-vuong_35.html" alt="{film.NAME}" title="Quyền Thuật Bá Vương - Tekken"> Quyền Thuật Bá ...</a></p>
+                						<p class="views">Lượt xem: 1910</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/sat-thu_37.html" title="Sát Thủ - Killers"><img src="http://img.tamtay.vn/files/photo2/2010/8/8/22/750297/4c5ecdd8_2902b4a7_killers-movie-poster.jpg" alt="Sát Thủ - Killers" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/sat-thu_37.html" alt="{film.NAME}" title="Sát Thủ - Killers"> Sát Thủ - ...</a></p>
+                						<p class="views">Lượt xem: 838</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/tu-nhan-211_32.html" title="Tù Nhân 211 - Celda 211"><img src="http://img.tamtay.vn/files/photo2/2010/8/7/14/750297/4c5d0cd9_14c2643e_celda-211-poster.jpg" alt="Tù Nhân 211 - Celda 211" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/tu-nhan-211_32.html" alt="{film.NAME}" title="Tù Nhân 211 - Celda 211"> Tù Nhân 211 ...</a></p>
+                						<p class="views">Lượt xem: 1548</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/solomon-kane_26.html" title="Solomon Kane"><img src="http://img.tamtay.vn/files/photo2/2010/8/4/23/750297/4c5992f8_166aca84_solomon-kane-poster.jpg" alt="Solomon Kane" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/solomon-kane_26.html" alt="{film.NAME}" title="Solomon Kane">Solomon Kane</a></p>
+                						<p class="views">Lượt xem: 2566</p></li>
+</div></div>
+<div class="clear"></div>

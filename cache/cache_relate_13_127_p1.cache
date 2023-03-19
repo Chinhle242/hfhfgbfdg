@@ -1,0 +1,15 @@
+			 <div class="block list_films">
+				<h2 class="title">Phim Cùng Thể Loại</h2>
+			<div class="content"> 
+            
+					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/can-biet-thu-so-13_212.html" title="Căn Biệt Thự Số 13 - Can Biet Thu So 13"><img src="http://1.bp.blogspot.com/_o5eqZU8vsfw/TIuUbTJyToI/AAAAAAAAAE8/SMNSEnzzFEM/s320/can-biet-thu-so-13.jpg" alt="Căn Biệt Thự Số 13 - Can Biet Thu So 13" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/can-biet-thu-so-13_212.html" alt="{film.NAME}" title="Căn Biệt Thự Số 13 - Can Biet Thu So 13"> Căn Biệt Thự ...</a></p>
+                						<p class="views">Lượt xem: 1273</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/running_229.html" title="Running - 난닝, 구"><img src="http://1.bp.blogspot.com/_nXvP3SM2-AY/TJTspsJETKI/AAAAAAAAAEM/rnIOYdjf0Xk/s1600/running.png" alt="Running - 난닝, 구" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/running_229.html" alt="{film.NAME}" title="Running - 난닝, 구"> Running - 난닝, ...</a></p>
+                						<p class="views">Lượt xem: 881</p></li>
+</div></div>
+<div class="clear"></div>

@@ -1,0 +1,58 @@
+BODY {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; MARGIN: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+IMG {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; MARGIN: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+FORM {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; MARGIN: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+FIELDSET {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; MARGIN: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+UL {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; MARGIN: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+LI {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; MARGIN: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+TD {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; MARGIN: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+BODY {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+TEXTAREA {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+SELECT {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+INPUT {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+BODY {
+	PADDING-RIGHT: 0px; BACKGROUND-POSITION: center top; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #bcbcbc; PADDING-TOP: 0px; BACKGROUND-REPEAT: repeat-y; BACKGROUND-COLOR: #333333; TEXT-ALIGN: center
+}
+
+A {
+	COLOR: #c3c3c3; TEXT-DECORATION: none; outline: none
+}
+A:hover {
+	TEXT-DECORATION: underline
+}
+.main {
+	MARGIN: 0px auto; WIDTH: 960px; BACKGROUND-COLOR: #333333; TEXT-ALIGN: left
+}
+.directlink {
+	MARGIN: 0px 0px 0px; BACKGROUND: url(images/top_title_direct.png) no-repeat; height:21px
+}
+.mirrorlink {
+	MARGIN: 0px 0px 0px; BACKGROUND: url(images/top_title_mirror.png) no-repeat; height:21px
+}
+.col01 {
+	DISPLAY: inline; FLOAT: left; WIDTH: 650px
+}
+.col02 {
+	PADDING-RIGHT: 2px; DISPLAY: inline; PADDING-LEFT: 2px;FLOAT: left; PADDING-BOTTOM: 0px; WIDTH: 300px; PADDING-TOP: 0px
+}

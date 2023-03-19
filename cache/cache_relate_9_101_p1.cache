@@ -1,0 +1,55 @@
+			 <div class="block list_films">
+				<h2 class="title">Phim Cùng Thể Loại</h2>
+			<div class="content"> 
+            
+					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/di-nhan-2_161.html" title="Dị Nhân 2 - X Men 2"><img src="http://img.tamtay.vn/files/photo2/2010/8/30/17/1347935/4c7b8663_485c3397_xmen%202-2.jpg" alt="Dị Nhân 2 - X Men 2" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/di-nhan-2_161.html" alt="{film.NAME}" title="Dị Nhân 2 - X Men 2"> Dị Nhân 2 ...</a></p>
+                						<p class="views">Lượt xem: 1571</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/ac-than_89.html" title="Ác Thần - Legion"><img src="http://img.tamtay.vn/files/photo2/2010/8/17/0/750297/4c697193_3b2de3bb_legion-poster.jpg" alt="Ác Thần - Legion" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/ac-than_89.html" alt="{film.NAME}" title="Ác Thần - Legion"> Ác Thần - ...</a></p>
+                						<p class="views">Lượt xem: 1897</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/quai-vat-ngoai-hanh-tinh-vs-ninja_418.html" title="Quái Vật Ngoài Hành Tinh Vs Ninja - Alien Vs Ninja 2010"><img src="http://i1107.photobucket.com/albums/h385/minhdaika/poster/Phim47-Com_1298487106.jpg" alt="Quái Vật Ngoài Hành Tinh Vs Ninja - Alien Vs Ninja 2010" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/quai-vat-ngoai-hanh-tinh-vs-ninja_418.html" alt="{film.NAME}" title="Quái Vật Ngoài Hành Tinh Vs Ninja - Alien Vs Ninja 2010"> Quái Vật Ngoài ...</a></p>
+                						<p class="views">Lượt xem: 228</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/bi-mat_413.html" title="Bí Mật - The Secret (2006)"><img src="http://www.phimlanhmanh.com/PhotoHandler.ashx?Type=Product&Id=17359" alt="Bí Mật - The Secret (2006)" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/bi-mat_413.html" alt="{film.NAME}" title="Bí Mật - The Secret (2006)"> Bí Mật - ...</a></p>
+                						<p class="views">Lượt xem: 160</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/star-trek_281.html" title="Star Trek"><img src="http://1.bp.blogspot.com/_fEGexqLDsvY/TKmhPALlqtI/AAAAAAAAACY/px4Q5tPwwuA/s1600/Star-Trek-poster.jpg" alt="Star Trek" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/star-trek_281.html" alt="{film.NAME}" title="Star Trek">Star Trek</a></p>
+                						<p class="views">Lượt xem: 1528</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/truyen-thuyet-ve-riddick_96.html" title="Truyền thuyết về Riddick - The Chronicles Of Riddick"><img src="http://img.tamtay.vn/files/photo2/2010/8/18/13/750297/4c6b8166_06ec4d1d_the-chronicles-of-riddick-poster.jpg" alt="Truyền thuyết về Riddick - The Chronicles Of Riddick" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/truyen-thuyet-ve-riddick_96.html" alt="{film.NAME}" title="Truyền thuyết về Riddick - The Chronicles Of Riddick"> Truyền thuyết về ...</a></p>
+                						<p class="views">Lượt xem: 4522</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/phu-thuy-tap-su_56.html" title="Phù Thủy Tập Sự - The Sorcerer Apprentice"><img src="http://2.bp.blogspot.com/_2chwtc8RoJ0/TJjhYbvyJGI/AAAAAAAAAEI/CIazfKTlS6I/s400/phu-thuy-tap-su.jpg" alt="Phù Thủy Tập Sự - The Sorcerer Apprentice" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/phu-thuy-tap-su_56.html" alt="{film.NAME}" title="Phù Thủy Tập Sự - The Sorcerer Apprentice"> Phù Thủy Tập ...</a></p>
+                						<p class="views">Lượt xem: 3765</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/nguoi-soi_166.html" title="Người Sói - X Men Origins: Wolverine"><img src="http://cA4.upanh.com/12.512.16744560.KUX0/XMenOriginsWolverineposter.jpg" alt="Người Sói - X Men Origins: Wolverine" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/nguoi-soi_166.html" alt="{film.NAME}" title="Người Sói - X Men Origins: Wolverine"> Người Sói - ...</a></p>
+                						<p class="views">Lượt xem: 1372</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/di-nhan-3_163.html" title="Dị Nhân 3 - X Men 3"><img src="http://cA7.upanh.com/12.507.16739059.VCP0/xmen3.jpg" alt="Dị Nhân 3 - X Men 3" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/di-nhan-3_163.html" alt="{film.NAME}" title="Dị Nhân 3 - X Men 3"> Dị Nhân 3 ...</a></p>
+                						<p class="views">Lượt xem: 1893</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/dem-kinh-hoang-2_137.html" title="Đêm Kinh Hoàng 2 - Night At The Museum 2: Battle Of The Smithsonian"><img src="http://cA4.upanh.com/12.314.16545044.KUX0/nightatthemuseum2poster.jpg" alt="Đêm Kinh Hoàng 2 - Night At The Museum 2: Battle Of The Smithsonian" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/dem-kinh-hoang-2_137.html" alt="{film.NAME}" title="Đêm Kinh Hoàng 2 - Night At The Museum 2: Battle Of The Smithsonian"> Đêm Kinh Hoàng ...</a></p>
+                						<p class="views">Lượt xem: 842</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/quai-thu-vo-hinh-1_106.html" title="Quái Thú Vô Hình 1 - Predator 1"><img src="http://img.tamtay.vn/files/photo2/2010/8/20/22/750297/4c6e9fef_6c5d20d2_predator-poster.jpg" alt="Quái Thú Vô Hình 1 - Predator 1" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/quai-thu-vo-hinh-1_106.html" alt="{film.NAME}" title="Quái Thú Vô Hình 1 - Predator 1"> Quái Thú Vô ...</a></p>
+                						<p class="views">Lượt xem: 1506</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/quai-thu-vo-hinh-2_107.html" title="Quái Thú Vô Hình 2 - Predator 2"><img src="http://img.tamtay.vn/files/photo2/2010/8/20/22/750297/4c6ea0ca_0c684c56_predator%202.jpg" alt="Quái Thú Vô Hình 2 - Predator 2" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/quai-thu-vo-hinh-2_107.html" alt="{film.NAME}" title="Quái Thú Vô Hình 2 - Predator 2"> Quái Thú Vô ...</a></p>
+                						<p class="views">Lượt xem: 4067</p></li>
+</div></div>
+<div class="clear"></div>

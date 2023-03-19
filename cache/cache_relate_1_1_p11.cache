@@ -1,0 +1,55 @@
+			 <div class="block list_films">
+				<h2 class="title">Phim Cùng Thể Loại</h2>
+			<div class="content"> 
+            
+					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/toan-thanh-gioi-bi_184.html" title="Toàn Thành Giới Bị - City Under Siege"><img src="http://img.tamtay.vn/files/photo2/2010/9/3/19/1412317/4c80e8d1_6a02ac00_toan-thanh-gioi-bi-2010-poster.jpg" alt="Toàn Thành Giới Bị - City Under Siege" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/toan-thanh-gioi-bi_184.html" alt="{film.NAME}" title="Toàn Thành Giới Bị - City Under Siege"> Toàn Thành Giới ...</a></p>
+                						<p class="views">Lượt xem: 2633</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/ke-san-tien-thuong_195.html" title="Kẻ Săn Tiền Thưởng - The Bounty Hunter"><img src="http://img.tamtay.vn/files/photo2/2010/9/5/19/1412317/4c83922b_5fc762a1_ke-san-tien-thuong-2010.jpg" alt="Kẻ Săn Tiền Thưởng - The Bounty Hunter" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/ke-san-tien-thuong_195.html" alt="{film.NAME}" title="Kẻ Săn Tiền Thưởng - The Bounty Hunter"> Kẻ Săn Tiền ...</a></p>
+                						<p class="views">Lượt xem: 724</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/cuoi-nham-mafia-1_193.html" title="Cưới Nhầm Mafia 1 - Marrying The Mafia 1"><img src="http://img.tamtay.vn/files/photo2/2010/9/4/22/1347935/4c826620_2047d9d3_marrying-the-mafia-newsasia.jpg" alt="Cưới Nhầm Mafia 1 - Marrying The Mafia 1" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/cuoi-nham-mafia-1_193.html" alt="{film.NAME}" title="Cưới Nhầm Mafia 1 - Marrying The Mafia 1"> Cưới Nhầm Mafia ...</a></p>
+                						<p class="views">Lượt xem: 2192</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/ke-la-mat_191.html" title="Kẻ lạ mặt - The Stranger"><img src="http://img.tamtay.vn/files/photo2/2010/9/4/17/1347935/4c8221fc_6138d8f6_the-stranger.jpg" alt="Kẻ lạ mặt - The Stranger" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/ke-la-mat_191.html" alt="{film.NAME}" title="Kẻ lạ mặt - The Stranger"> Kẻ lạ mặt ...</a></p>
+                						<p class="views">Lượt xem: 1112</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/biet-doi-danh-thue_115.html" title="Biệt Đội Đánh Thuê - The Expendables"><img src="http://img.tamtay.vn/files/photo2/2010/8/25/7/750297/4c746a06_1b8c7bc6_the_expendables.jpg" alt="Biệt Đội Đánh Thuê - The Expendables" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/biet-doi-danh-thue_115.html" alt="{film.NAME}" title="Biệt Đội Đánh Thuê - The Expendables"> Biệt Đội Đánh ...</a></p>
+                						<p class="views">Lượt xem: 10488</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/thien-xa_170.html" title="Thiện Xạ - Shooter"><img src="http://img.tamtay.vn/files/photo2/2010/8/30/22/750297/4c7bcf22_211ec4b1_shooter.jpg" alt="Thiện Xạ - Shooter" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/thien-xa_170.html" alt="{film.NAME}" title="Thiện Xạ - Shooter"> Thiện Xạ - ...</a></p>
+                						<p class="views">Lượt xem: 4030</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/linh-hon_151.html" title="Linh Hồn - The Spirit"><img src="http://img.tamtay.vn/files/photo2/2010/8/28/22/1347935/4c792d87_24e31280_the_spirit_poster7.jpg" alt="Linh Hồn - The Spirit" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/linh-hon_151.html" alt="{film.NAME}" title="Linh Hồn - The Spirit"> Linh Hồn - ...</a></p>
+                						<p class="views">Lượt xem: 829</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/ke-mat-tri-nho_152.html" title="Kẻ Mất Trí Nhớ - Memento"><img src="http://cA4.upanh.com/12.445.16677048.KUX0/memento.jpg" alt="Kẻ Mất Trí Nhớ - Memento" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/ke-mat-tri-nho_152.html" alt="{film.NAME}" title="Kẻ Mất Trí Nhớ - Memento"> Kẻ Mất Trí ...</a></p>
+                						<p class="views">Lượt xem: 1825</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/bao-tu-apocalypse_111.html" title="Bão Từ Apocalypse - Quantum Apocalypse"><img src="http://i875.photobucket.com/albums/ab311/vuaphimteam01/Quantum-Apocalypse.jpg" alt="Bão Từ Apocalypse - Quantum Apocalypse" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/bao-tu-apocalypse_111.html" alt="{film.NAME}" title="Bão Từ Apocalypse - Quantum Apocalypse"> Bão Từ Apocalypse ...</a></p>
+                						<p class="views">Lượt xem: 2097</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/doi-mat_154.html" title="Đổi Mặt - Face Off"><img src="http://img.tamtay.vn/files/photo2/2010/8/28/22/1347935/4c792dc8_76c3cbf4_face_off.jpg" alt="Đổi Mặt - Face Off" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/doi-mat_154.html" alt="{film.NAME}" title="Đổi Mặt - Face Off"> Đổi Mặt - ...</a></p>
+                						<p class="views">Lượt xem: 613</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/tinh-vo-mon-2_148.html" title="Tinh Võ Môn 2 - Kungfu Hiphop 2"><img src="http://img.tamtay.vn/files/photo2/2010/8/28/0/1347935/4c77efee_0331977a_kungfuhiphop2_kung-fu-hip-hop2_resize.jpg" alt="Tinh Võ Môn 2 - Kungfu Hiphop 2" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/tinh-vo-mon-2_148.html" alt="{film.NAME}" title="Tinh Võ Môn 2 - Kungfu Hiphop 2"> Tinh Võ Môn ...</a></p>
+                						<p class="views">Lượt xem: 1992</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/cuoc-chien-giua-cac-vi-than_15.html" title="Cuộc Chiến Giữa Các Vị Thần - Clash Of The Titans"><img src="http://img.tamtay.vn/files/photo2/2010/8/2/7/750297/4c561754_7875b039_clash-of-the-titans-poster.jpg" alt="Cuộc Chiến Giữa Các Vị Thần - Clash Of The Titans" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/cuoc-chien-giua-cac-vi-than_15.html" alt="{film.NAME}" title="Cuộc Chiến Giữa Các Vị Thần - Clash Of The Titans"> Cuộc Chiến Giữa ...</a></p>
+                						<p class="views">Lượt xem: 1711</p></li>
+</div></div>
+<div class="clear"></div>

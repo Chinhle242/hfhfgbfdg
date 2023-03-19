@@ -1,0 +1,54 @@
+Options +FollowSymlinks
+
+RewriteEngine on
+
+RewriteRule xem-phim/online/(.*)_(.*)\.html$ index.php?episode=$2&name=$1
+RewriteRule xem-phim/download(.*)_(.*).html$ xml_grab.php?id=$2&type=download
+
+RewriteRule tin-tuc/(.*)_(.*)\.html$ index.php?news=$2&name=$1
+RewriteRule xem-trailer/(.*)_(.*)\.html$ index.php?trailers=$2&name=$1
+RewriteRule watch-popup/(.*)_(.*)\.html$ index.php?popup=$2
+RewriteRule list/(.*)/p(.*)\.html$ index.php?list=$1&page=$2
+RewriteRule list/(.*)\.html$ index.php?list=$1
+RewriteRule thong-tin/(.*)_(.*)\.html$ index.php?info=$2
+RewriteRule actor/(.*)/p(.*).html$ index.php?actor=$1&page=$2
+RewriteRule actor/(.*).html$ index.php?actor=$1
+RewriteRule tag/(.*)/p(.*).html$ index.php?tag=$1&page=$2
+RewriteRule tag/(.*).html$ index.php?tag=$1
+RewriteRule quick_search/(.*)/p(.*).html$ index.php?quick_search=$1&page=$2
+RewriteRule quick_search/(.*).html$ index.php?quick_search=$1
+RewriteRule search/(.*)/p(.*).html$ index.php?search=$1&page=$2
+RewriteRule search/(.*).html$ index.php?search=$1
+RewriteRule search-film/(.*)/p(.*).html$ index.php?sfilm=$1&page=$2
+RewriteRule search-film/(.*).html$ index.php?sfilm=$1
+RewriteRule search-actor/(.*).html$ index.php?sactor=$1
+RewriteRule search-actor/(.*)/p(.*).html$ index.php?sactor=$1&page=$2
+RewriteRule search-director/(.*)/p(.*).html$ index.php?sdirector=$1&page=$2
+RewriteRule search-director/(.*).html$ index.php?sdirector=$1
+RewriteRule index\.html$ index.php
+RewriteRule error.html$ index.php?error=1
+RewriteRule the-loai/(.*)/(.*)/l(.*)/g(.*)/p(.*).html$ index.php?category=$4&page=$5&l=$3
+RewriteRule the-loai/(.*)/(.*)/l(.*)/g(.*).html$ index.php?category=$4&l=$3
+RewriteRule the-loai/(.*)/g(.*)/p(.*).html$ index.php?category=$2&page=$3
+RewriteRule the-loai/(.*)/g(.*).html$ index.php?category=$2
+RewriteRule phim-le/category/(.*)/(.*)/l(.*)/g(.*)/p(.*)\.html$ index.php?category=$4&l=$3&page=$5&t=single
+RewriteRule phim-le/category/(.*)/(.*)/l(.*)/g(.*)\.html$ index.php?category=$4&l=$3&t=single
+RewriteRule phim-le/category/(.*)/g(.*)/p(.*)\.html$ index.php?category=$2&page=$3&t=single
+RewriteRule phim-le/category/(.*)/g(.*)\.html$ index.php?category=$2&t=single
+RewriteRule phim-bo/(.*)/(.*)/l(.*)/c(.*)/p(.*)\.html$ index.php?list=phim-bo&l=$3&c=$4&page=$5
+RewriteRule phim-bo/(.*)/(.*)/l(.*)/c(.*)\.html$ index.php?list=phim-bo&l=$3&c=$4
+RewriteRule phim-bo/(.*)/c(.*)/p(.*)\.html$ index.php?list=phim-bo&c=$2&page=$3
+RewriteRule phim-bo/(.*)/c(.*)\.html$ index.php?list=phim-bo&c=$2
+RewriteRule phim-bo/(.*)/l(.*)/p(.*)\.html$ index.php?list=phim-bo&l=$2&page=$3
+RewriteRule phim-bo/(.*)/l(.*)\.html$ index.php?list=phim-bo&l=$2
+RewriteRule phim-bo/p(.*)\.html$ index.php?list=phim-bo&page=$1
+RewriteRule phim-bo.html$ index.php?list=phim-bo
+RewriteRule language/(.*)/l(.*)/p(.*)\.html$ index.php?list=language&l=$2&page=$3
+RewriteRule language/(.*)/l(.*)\.html$ index.php?list=language&l=$2
+RewriteRule country/(.*)/c(.*)/p(.*)\.html$ index.php?list=country&c=$2&page=$3
+RewriteRule country/(.*)/c(.*)\.html$ index.php?list=country&c=$2
+RewriteRule playvideo/(.*)\.flv$ linkplay.php?id=$1
+RewriteRule user/(.*)$ index.php?user=$1
+RewriteRule xml_video/(.*)$ xml_grab.php?id=$1
+RewriteRule ep/(.*)$ xml_grab.php?id=$1&type=embed
+

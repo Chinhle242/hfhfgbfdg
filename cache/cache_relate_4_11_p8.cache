@@ -1,0 +1,27 @@
+			 <div class="block list_films">
+				<h2 class="title">Phim Cùng Thể Loại</h2>
+			<div class="content"> 
+            
+					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/ten-toi-la-kim-sam-soon_18.html" title="Tên Tôi Là Kim Sam Soon - My Lovely Sam Soon 2005"><img src="http://img.tamtay.vn/files/photo2/2010/8/25/9/1347935/4c747ef1_42b12bfa_my-name-kimsam-soon.jpg" alt="Tên Tôi Là Kim Sam Soon - My Lovely Sam Soon 2005" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/ten-toi-la-kim-sam-soon_18.html" alt="{film.NAME}" title="Tên Tôi Là Kim Sam Soon - My Lovely Sam Soon 2005"> Tên Tôi Là ...</a></p>
+                						<p class="views">Lượt xem: 1094</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/go-lala-go_105.html" title="Go Lala Go - Go La la Go"><img src="http://img.tamtay.vn/files/photo2/2010/8/20/12/1227809/4c6e152c_0a7e02f5_go-lala-go.jpeg" alt="Go Lala Go - Go La la Go" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/go-lala-go_105.html" alt="{film.NAME}" title="Go Lala Go - Go La la Go"> Go Lala Go ...</a></p>
+                						<p class="views">Lượt xem: 1065</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/ao-cuoi_90.html" title="Áo Cưới - Wedding Dress"><img src="http://img.tamtay.vn/files/photo2/2010/8/17/10/1227809/4c6a08f5_7b722c6b_wedding-dress.jpg" alt="Áo Cưới - Wedding Dress" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/ao-cuoi_90.html" alt="{film.NAME}" title="Áo Cưới - Wedding Dress"> Áo Cưới - ...</a></p>
+                						<p class="views">Lượt xem: 527</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/ke-hoach-b_53.html" title="Kế Hoạch B - The Back Up Plan"><img src="http://img.tamtay.vn/files/photo2/2010/8/12/14/1227809/4c63a9b6_4f157748_the-back-up-plan-poster.jpg" alt="Kế Hoạch B - The Back Up Plan" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/ke-hoach-b_53.html" alt="{film.NAME}" title="Kế Hoạch B - The Back Up Plan"> Kế Hoạch B ...</a></p>
+                						<p class="views">Lượt xem: 2232</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/harvest-villa_29.html" title="Harvest Villa - 위기일발 풍년빌라"><img src="http://img.tamtay.vn/files/photo2/2010/8/5/22/1227809/4c5ad62c_61daf122_harvest-villa-poster.jpg" alt="Harvest Villa - 위기일발 풍년빌라" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/harvest-villa_29.html" alt="{film.NAME}" title="Harvest Villa - 위기일발 풍년빌라"> Harvest Villa - ...</a></p>
+                						<p class="views">Lượt xem: 941</p></li>
+</div></div>
+<div class="clear"></div>

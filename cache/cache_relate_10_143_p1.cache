@@ -1,0 +1,35 @@
+			 <div class="block list_films">
+				<h2 class="title">Phim Cùng Thể Loại</h2>
+			<div class="content"> 
+            
+					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/chiec-bua-cua-su-vinh-cuu_479.html" title="Chiếc Búa Của Sự Vĩnh Cữu - Almighty Thor 2011"><img src="http://i929.photobucket.com/albums/ad136/lancuoia/almighty-thor.jpg" alt="Chiếc Búa Của Sự Vĩnh Cữu - Almighty Thor 2011" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/chiec-bua-cua-su-vinh-cuu_479.html" alt="{film.NAME}" title="Chiếc Búa Của Sự Vĩnh Cữu - Almighty Thor 2011"> Chiếc Búa Của ...</a></p>
+                						<p class="views">Lượt xem: 120</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/thien-su-chung-quy_260.html" title="Thiên Sư Chung Quỳ - Mỹ Lệ Truyền Thuyết"><img src="http://1.bp.blogspot.com/_2chwtc8RoJ0/TKHksUV094I/AAAAAAAAAG4/Oe5f6o9dl_M/s1600/thiensucungquy.jpg" alt="Thiên Sư Chung Quỳ - Mỹ Lệ Truyền Thuyết" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/thien-su-chung-quy_260.html" alt="{film.NAME}" title="Thiên Sư Chung Quỳ - Mỹ Lệ Truyền Thuyết"> Thiên Sư Chung ...</a></p>
+                						<p class="views">Lượt xem: 3222</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/truyen-thuyet-tieu-ho-ly_247.html" title="Truyền Thuyết Tiểu Hồ Ly - Gumiho: Tale of the Fox Child"><img src="http://img.tamtay.vn/files/photo2/2010/9/24/0/750297/4c9b8c74_71b100cd_tale-of-the-fox-child.jpg" alt="Truyền Thuyết Tiểu Hồ Ly - Gumiho: Tale of the Fox Child" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/truyen-thuyet-tieu-ho-ly_247.html" alt="{film.NAME}" title="Truyền Thuyết Tiểu Hồ Ly - Gumiho: Tale of the Fox Child"> Truyền Thuyết Tiểu ...</a></p>
+                						<p class="views">Lượt xem: 6100</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/hiep-si-rong_99.html" title="Hiệp Sĩ Rồng - Eragon"><img src="http://img.tamtay.vn/files/photo2/2010/8/19/22/750297/4c6d48d3_39c872b9_eragon.jpg" alt="Hiệp Sĩ Rồng - Eragon" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/hiep-si-rong_99.html" alt="{film.NAME}" title="Hiệp Sĩ Rồng - Eragon"> Hiệp Sĩ Rồng ...</a></p>
+                						<p class="views">Lượt xem: 2402</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/khac-tinh-cua-ma-ca-rong_30.html" title="Khắc Tinh Của Ma Cà Rồng - Van Helsing"><img src="http://img.tamtay.vn/files/photo2/2010/8/17/14/750297/4c6a3911_384d421c_van_helsing.jpg" alt="Khắc Tinh Của Ma Cà Rồng - Van Helsing" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/khac-tinh-cua-ma-ca-rong_30.html" alt="{film.NAME}" title="Khắc Tinh Của Ma Cà Rồng - Van Helsing"> Khắc Tinh Của ...</a></p>
+                						<p class="views">Lượt xem: 2564</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/bien-nien-su-narnia-hoang-tu-caspian_77.html" title="Biên Niên Sử Narnia: Hoàng Tử Caspian - The Chronicles of Narnia: Prince Caspian"><img src="http://img.tamtay.vn/files/photo2/2010/8/15/20/750297/4c67e77b_4a979305_prince-caspian-poster.jpg" alt="Biên Niên Sử Narnia: Hoàng Tử Caspian - The Chronicles of Narnia: Prince Caspian" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/bien-nien-su-narnia-hoang-tu-caspian_77.html" alt="{film.NAME}" title="Biên Niên Sử Narnia: Hoàng Tử Caspian - The Chronicles of Narnia: Prince Caspian"> Biên Niên Sử ...</a></p>
+                						<p class="views">Lượt xem: 1376</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/bien-nien-su-narnia-su-tu-phu-thuy-va-tu-ao_14.html" title="Biên Niên Sử Narnia: Sư Tử, Phù Thủy Và Tủ Ao - The Chronicles of Narnia: The Lion, the Witch and the Wardrobe"><img src="http://img.tamtay.vn/files/photo2/2010/8/1/21/750297/4c558636_551c5051_the%20chronicles%20of%20narnia.jpg" alt="Biên Niên Sử Narnia: Sư Tử, Phù Thủy Và Tủ Ao - The Chronicles of Narnia: The Lion, the Witch and the Wardrobe" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/bien-nien-su-narnia-su-tu-phu-thuy-va-tu-ao_14.html" alt="{film.NAME}" title="Biên Niên Sử Narnia: Sư Tử, Phù Thủy Và Tủ Ao - The Chronicles of Narnia: The Lion, the Witch and the Wardrobe"> Biên Niên Sử ...</a></p>
+                						<p class="views">Lượt xem: 1438</p></li>
+</div></div>
+<div class="clear"></div>

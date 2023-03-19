@@ -1,0 +1,55 @@
+			 <div class="block list_films">
+				<h2 class="title">Phim Cùng Thể Loại</h2>
+			<div class="content"> 
+            
+					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/haru_249.html" title="Haru"><img src="http://3.bp.blogspot.com/_2chwtc8RoJ0/TJyRoxYpUYI/AAAAAAAAAFs/vqonVSBPU3A/s400/haru600x405.jpg" alt="Haru" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/haru_249.html" alt="{film.NAME}" title="Haru">Haru</a></p>
+                						<p class="views">Lượt xem: 2981</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/tan-tay-du-ky-2009--tay-du-ky-2009_417.html" title="Tân Tây Du Ký 2009 - Tây Du Ký 2009 - tay du ky 2009"><img src="http://3.bp.blogspot.com/-b2Ic-pP8N4E/TZyY1Wg_vVI/AAAAAAAAAAo/me6iVAEecJU/s320/index1.jpeg" alt="Tân Tây Du Ký 2009 - Tây Du Ký 2009 - tay du ky 2009" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/tan-tay-du-ky-2009--tay-du-ky-2009_417.html" alt="{film.NAME}" title="Tân Tây Du Ký 2009 - Tây Du Ký 2009 - tay du ky 2009"> Tân Tây Du ...</a></p>
+                						<p class="views">Lượt xem: 1469</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/cam-y-ve_421.html" title="Cẩm Y Vệ - "><img src="http://t1.gstatic.com/images?q=tbn:ANd9GcRpjEvcHWUNA8fU86-HNa0D5gb6z7_wY9IgZoFFcEvQlgKOZQFB-w" alt="Cẩm Y Vệ - " width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/cam-y-ve_421.html" alt="{film.NAME}" title="Cẩm Y Vệ - "> Cẩm Y Vệ ...</a></p>
+                						<p class="views">Lượt xem: 157</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/tuyet-dinh-kung-fu_9.html" title="Tuyệt Đỉnh Kung-fu - Kung Fu Hustle"><img src="http://img.tamtay.vn/files/photo2/2010/7/31/15/750297/4c53e376_5e28459b_tuyet%20dinh%20kung%20fu%20-%20kung%20fu%20hustle%20-%20poster.jpg" alt="Tuyệt Đỉnh Kung-fu - Kung Fu Hustle" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/tuyet-dinh-kung-fu_9.html" alt="{film.NAME}" title="Tuyệt Đỉnh Kung-fu - Kung Fu Hustle"> Tuyệt Đỉnh Kung-fu ...</a></p>
+                						<p class="views">Lượt xem: 2217</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/sieu-nhi-karate_41.html" title="Siêu Nhí Karate - The Karate Kid"><img src="http://img.tamtay.vn/files/photo2/2010/8/9/13/750297/4c5fa631_5d78e82b_karate_kid.jpg" alt="Siêu Nhí Karate - The Karate Kid" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/sieu-nhi-karate_41.html" alt="{film.NAME}" title="Siêu Nhí Karate - The Karate Kid"> Siêu Nhí Karate ...</a></p>
+                						<p class="views">Lượt xem: 1732</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/canh-dong-bat-tan--floating-lives_409.html" title="Cánh Đồng Bất Tận - Floating Lives - Floating Lives"><img src="http://t0.gstatic.com/images?q=tbn:ANd9GcQAjGBMVMG-5o5Kb5ic0zBQROPm4cXD5QrU9Mir8vfNGXTMuC3i" alt="Cánh Đồng Bất Tận - Floating Lives - Floating Lives" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/canh-dong-bat-tan--floating-lives_409.html" alt="{film.NAME}" title="Cánh Đồng Bất Tận - Floating Lives - Floating Lives"> Cánh Đồng Bất ...</a></p>
+                						<p class="views">Lượt xem: 194</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/the-fugitive-plan-b-tap-15_270.html" title="The Fugitive Plan B Tập 15 - Kế Hoạch Chạy Chốn B Tập 15"><img src="http://3.bp.blogspot.com/_o5eqZU8vsfw/TL0xiCW2DaI/AAAAAAAAAGA/THefBl71SOY/s320/the-fugitive-plan-b.jpg" alt="The Fugitive Plan B Tập 15 - Kế Hoạch Chạy Chốn B Tập 15" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/the-fugitive-plan-b-tap-15_270.html" alt="{film.NAME}" title="The Fugitive Plan B Tập 15 - Kế Hoạch Chạy Chốn B Tập 15"> The Fugitive Plan ...</a></p>
+                						<p class="views">Lượt xem: 140170</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/nu-tham-tu-xinh-dep_307.html" title="Nữ Thám Tử Xinh Đẹp - My Girlfriend Is An Agent"><img src="http://3.bp.blogspot.com/_2chwtc8RoJ0/TLa4HiVElVI/AAAAAAAAAJY/OzujnsRQovk/s400/nuthamtuxinhdep.jpg" alt="Nữ Thám Tử Xinh Đẹp - My Girlfriend Is An Agent" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/nu-tham-tu-xinh-dep_307.html" alt="{film.NAME}" title="Nữ Thám Tử Xinh Đẹp - My Girlfriend Is An Agent"> Nữ Thám Tử ...</a></p>
+                						<p class="views">Lượt xem: 3370</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/lanh-dia-toi-cao_406.html" title="Lãnh Địa Tối Cao - The Covenant"><img src="http://2.bp.blogspot.com/_fEGexqLDsvY/TOVAtt4s4HI/AAAAAAAAAFw/ntubwmSLyZg/s1600/The-Covenant-poster.jpg" alt="Lãnh Địa Tối Cao - The Covenant" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/lanh-dia-toi-cao_406.html" alt="{film.NAME}" title="Lãnh Địa Tối Cao - The Covenant"> Lãnh Địa Tối ...</a></p>
+                						<p class="views">Lượt xem: 998</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/phi-doi-cam-tu_403.html" title="Phi Đội Cảm Tử - Flyboys"><img src="http://2.bp.blogspot.com/_fEGexqLDsvY/TOJTFKuJFSI/AAAAAAAAAFQ/GStDonaaT1s/s1600/Flyboys.jpg" alt="Phi Đội Cảm Tử - Flyboys" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/phi-doi-cam-tu_403.html" alt="{film.NAME}" title="Phi Đội Cảm Tử - Flyboys"> Phi Đội Cảm ...</a></p>
+                						<p class="views">Lượt xem: 1701</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/daemul_329.html" title="Daemul"><img src="http://1.bp.blogspot.com/_2chwtc8RoJ0/TL3SMgo7bFI/AAAAAAAAAL4/YBMcWKAwoII/s400/Daemul.jpg" alt="Daemul" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/daemul_329.html" alt="{film.NAME}" title="Daemul">Daemul</a></p>
+                						<p class="views">Lượt xem: 9951</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/cia-tai-xuat_402.html" title="CIA Tái Xuất - Red"><img src="http://2.bp.blogspot.com/_fEGexqLDsvY/TOFw0mFADLI/AAAAAAAAAFI/CsKQMWSQa8w/s1600/red%2B2010.jpeg" alt="CIA Tái Xuất - Red" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/cia-tai-xuat_402.html" alt="{film.NAME}" title="CIA Tái Xuất - Red"> CIA Tái Xuất ...</a></p>
+                						<p class="views">Lượt xem: 4494</p></li>
+</div></div>
+<div class="clear"></div>

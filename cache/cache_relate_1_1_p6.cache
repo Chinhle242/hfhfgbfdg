@@ -1,0 +1,55 @@
+			 <div class="block list_films">
+				<h2 class="title">Phim Cùng Thể Loại</h2>
+			<div class="content"> 
+            
+					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/downstream_344.html" title="Downstream"><img src="http://3.bp.blogspot.com/_2chwtc8RoJ0/TMPSg8YSVZI/AAAAAAAAANQ/6_rHV7BABJQ/s400/400downstream2010720pbr.jpg" alt="Downstream" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/downstream_344.html" alt="{film.NAME}" title="Downstream">Downstream</a></p>
+                						<p class="views">Lượt xem: 4685</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/72-khach-tro_343.html" title="72 Khách Trọ - 72 Tenants"><img src="http://3.bp.blogspot.com/_2chwtc8RoJ0/TML7oZkpuEI/AAAAAAAAANI/P5BJpvgUKaU/s400/72-Tenants-poster.jpg" alt="72 Khách Trọ - 72 Tenants" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/72-khach-tro_343.html" alt="{film.NAME}" title="72 Khách Trọ - 72 Tenants"> 72 Khách Trọ ...</a></p>
+                						<p class="views">Lượt xem: 898</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/ca-ho-khong-lo_294.html" title="Cá Hố Khổng Lồ - Mega Piranha 2010"><img src="http://4.bp.blogspot.com/_2chwtc8RoJ0/TLs6xNmKOwI/AAAAAAAAAK4/P18txHCIc3I/s400/mega+piranha.jpg" alt="Cá Hố Khổng Lồ - Mega Piranha 2010" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/ca-ho-khong-lo_294.html" alt="{film.NAME}" title="Cá Hố Khổng Lồ - Mega Piranha 2010"> Cá Hố Khổng ...</a></p>
+                						<p class="views">Lượt xem: 13921</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/ninja-assassin_340.html" title="Ninja Assassin"><img src="http://img63.imageshack.us/img63/1668/ninjaxz.jpg" alt="Ninja Assassin" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/ninja-assassin_340.html" alt="{film.NAME}" title="Ninja Assassin">Ninja Assassin</a></p>
+                						<p class="views">Lượt xem: 3915</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/hang-quy-i_336.html" title="Hang quỷ I - Resident Evil I"><img src="http://4.bp.blogspot.com/_2chwtc8RoJ0/TMGCB2ZBH3I/AAAAAAAAAMg/HZB-BJ-F5AU/s400/Resident+Evil+1.jpg" alt="Hang quỷ I - Resident Evil I" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/hang-quy-i_336.html" alt="{film.NAME}" title="Hang quỷ I - Resident Evil I"> Hang quỷ I ...</a></p>
+                						<p class="views">Lượt xem: 3505</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/hang-quy-ii_337.html" title="Hang quỷ II - Resident Evil II"><img src="http://4.bp.blogspot.com/_2chwtc8RoJ0/TMGDeAcIlKI/AAAAAAAAAMo/uofLlAnJOsA/s400/Resident+Evil+2.jpg" alt="Hang quỷ II - Resident Evil II" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/hang-quy-ii_337.html" alt="{film.NAME}" title="Hang quỷ II - Resident Evil II"> Hang quỷ II ...</a></p>
+                						<p class="views">Lượt xem: 2289</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/hang-quy-iii_338.html" title="Hang quỷ III - Resident Evil III"><img src="http://1.bp.blogspot.com/_2chwtc8RoJ0/TMGEySzQoxI/AAAAAAAAAMw/xPYMrh9xa4g/s400/Resident+Evil+3.jpg" alt="Hang quỷ III - Resident Evil III" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/hang-quy-iii_338.html" alt="{film.NAME}" title="Hang quỷ III - Resident Evil III"> Hang quỷ III ...</a></p>
+                						<p class="views">Lượt xem: 2302</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/batman-under-the-red-hood_333.html" title="Batman Under The Red Hood"><img src="http://1.bp.blogspot.com/_2chwtc8RoJ0/TL_eJ_rkktI/AAAAAAAAAMQ/b1tM8JJD1qU/s400/20101020151624_9efee807.jpg" alt="Batman Under The Red Hood" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/batman-under-the-red-hood_333.html" alt="{film.NAME}" title="Batman Under The Red Hood"> Batman Under The ...</a></p>
+                						<p class="views">Lượt xem: 2426</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/than-bai-1_326.html" title="Thần Bài 1 - God Of Gamblers"><img src="http://4.bp.blogspot.com/_fEGexqLDsvY/TLyKs3VeCeI/AAAAAAAAAEI/ipzIh7PO8WQ/s320/God-Of-Gamblers.jpg" alt="Thần Bài 1 - God Of Gamblers" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/than-bai-1_326.html" alt="{film.NAME}" title="Thần Bài 1 - God Of Gamblers"> Thần Bài 1 ...</a></p>
+                						<p class="views">Lượt xem: 2058</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/huyen-thoai-kamui_324.html" title="Huyền thoại Kamui - Kamui Gaiden"><img src="http://4.bp.blogspot.com/_2chwtc8RoJ0/TLxzNrp_X4I/AAAAAAAAALo/IRb0JqAc1gY/s400/Kamui-06082010.jpg" alt="Huyền thoại Kamui - Kamui Gaiden" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/huyen-thoai-kamui_324.html" alt="{film.NAME}" title="Huyền thoại Kamui - Kamui Gaiden"> Huyền thoại Kamui ...</a></p>
+                						<p class="views">Lượt xem: 2740</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/huyen-thoai-tran-chan_239.html" title="Huyền Thoại Trần Chân - Legend of the First: The Return of Chen Zhen"><img src="http://3.bp.blogspot.com/_pbu2OzI9WjQ/TJilGUlDpbI/AAAAAAAAABk/bgAHYqBTVcg/s1600/huyen-thoai-tran-chan-poster.jpg" alt="Huyền Thoại Trần Chân - Legend of the First: The Return of Chen Zhen" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/huyen-thoai-tran-chan_239.html" alt="{film.NAME}" title="Huyền Thoại Trần Chân - Legend of the First: The Return of Chen Zhen"> Huyền Thoại Trần ...</a></p>
+                						<p class="views">Lượt xem: 45400</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/thu-thach-cuoi-cung_316.html" title="Thử Thách Cuối Cùng - Liar Game : The Final Stage"><img src="http://2.bp.blogspot.com/_2chwtc8RoJ0/TLp8Lizf35I/AAAAAAAAAKQ/uT4ZmgBo9ek/s400/poster.jpg" alt="Thử Thách Cuối Cùng - Liar Game : The Final Stage" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/thu-thach-cuoi-cung_316.html" alt="{film.NAME}" title="Thử Thách Cuối Cùng - Liar Game : The Final Stage"> Thử Thách Cuối ...</a></p>
+                						<p class="views">Lượt xem: 1333</p></li>
+</div></div>
+<div class="clear"></div>

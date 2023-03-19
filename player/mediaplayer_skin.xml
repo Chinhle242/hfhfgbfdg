@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayerSkin x="0" y="0">
+	<config buffertime="3" shuffle="false" autostart="false" repeat="list" volume="100" stretch="normal" plugins="plugins/plugins_sendspace.swf*http://phim47.com/phim/images/swf/gac_kiem/videobb_phim47.swf*http://vuaphim.net/gkplayer/plugins/plugins_zing.swf*plugins/plugins_movshare.swf*plugins/plugins_novamov.swf*plugins/plugins_veoh.swf*plugins/plugins_badongo.swf*http://phim47.com/phim/images/swf/gac_kiem/plugins_zippyshare.swf*plugins/plugins_gdatayoutube.swf*plugins/plugins_veoh.swf*plugins/plugins_yume.swf*plugins/plugins_zippyshare.swf*plugins/plugins_mediafire.swf*plugins/ovfile.swf*http://player.v1vn.com/plugins/vidxdens.swf*plugins/tusfiles.swf*plugins/plugins_hulkshare.swf*plugins/plugins_goonline.swf" adslist="" hidelogoyt="true" crosserror="false" errorlog="" stretchskin="true" ytqualityavai="" loadingtext="Vui lòng đợi giây lát" loadingstyle="0xFF0000,17,center,true,false,false" />
+
+	<maskscreen>
+		<item x="0" y="0" image="" allowfullscreen="true" anchor="TL" />
+	</maskscreen>
+
+	<screen x="0" y="0" width="400" height="300" video_smoothing="true" alerterror="false" anchor="TLB=33,R">
+		<error image="player_images/error.png" missx="0" missy="0" handcursor="true" />
+		<button_pauseplay image="player_images/screen_play.png" missx="0" missy="0" handcursor="true" />
+		<imageTrack missx="0" missy="0" />
+	    <logo image="player_images/logo1.swf" position="bl" showtime="3" showone="false" missx="0" missy="0" />	
+		<buffer overrideyt="false">
+			<icon image="player_images/buffering.swf" missx="0" missy="0" />
+			<text missx="0" missy="0" format="{percent}%" visible="true" align="center" color="0xffffff" font="Arial" bold="false" italic="false" underline="false" size="12" multiline="false" wordwrap="false" border="false" bordercolor="0x000000" background="false" backgroundcolor="0xffffff" selectable="false" width="30" height="20" />
+		</buffer>
+		<ads showtime="10" enablelink="true" showone="true">
+			<bt_close image="" handcursor="true" />
+			<bt_open image="" handcursor="true" />
+			<bt_next image="" handcursor="true" />
+			<bt_previous image="" handcursor="true" />
+		</ads>
+		<mask image="" />
+	</screen>
+
+	<control x="0" y="300" hideauto="false" hidetime="3" hideposition="b" hidespeed="5" >
+		<bt_download image="" x="0" y="0" visible="false" handcursor="true" anchor="BL" />
+		<bt_fullscreen image="player_images/bt_fullscreen.png*player_images/bt_fullscreen_over.png" x="374" y="0" visible="true" handcursor="true" anchor="BR=74" />
+		<bt_next image="player_images/next.png*player_images/next_over.png" x="94" y="0" visible="true" handcursor="true" anchor="BL" />
+		<bt_pauseplay image_play="player_images/play.png*player_images/play_over.png" image_pause="player_images/pause.png*player_images/pause_over.png" x="0" y="0" visible="true" handcursor="true" anchor="BL" />
+		<bt_previous image="player_images/previous.png*player_images/previous_over.png" x="62" y="0" visible="true" handcursor="true" anchor="BL" />
+		<bt_repeat image_always="" image_list="" image_single="" x="0" y="0" visible="false" handcursor="true" anchor="TL" />
+		<bt_shuffle image_shuffle="" image_unshuffle="" x="0" y="0" visible="false" handcursor="true" anchor="TL" />
+		<bt_stop image="" x="20" y="0" visible="true" handcursor="true" anchor="BL" />
+		<bt_volume image_vol="player_images/volume.png*player_images/volume_over.png" image_novol="player_images/novolume.png*player_images/novolume_over.png" x="330" y="0" visible="true" handcursor="true" anchor="BR=50" />
+		<seek length="8" >
+			<bt_seeknext image="" x="0" y="0" visible="false" handcursor="true" anchor="TL" />
+			<bt_seekprevious image="" x="0" y="0" visible="false" handcursor="true" anchor="TL" />
+		</seek>
+		<task_volume scroll="false" position="r" speed="5" missx="0" missy="0" cookie="">
+			<scroller image="" visible="false" handcursor="true" />
+			<scroll image="" />
+			<background image="player_images/task_volume.swf" />
+		</task_volume>
+		<task_loading x="166" y="9" hideseekstream="false" anchor="B=11,LR=149">
+			<timer image="player_images/loading_timer.png" visible="true" handcursor="true" />
+			<time image="player_images/loading_time.png" handcursor="true" />
+			<byte image="player_images/loading_byte.png" handcursor="true" />
+			<background image="player_images/loading_bg.png" handcursor="true" />
+			<info_time>
+				<background image="player_images/infotime.png" />
+				<text visible="true" align="center" color="0x6C6B6B" font="Arial" bold="true" italic="false" underline="false" size="11" multiline="false" wordwrap="false" border="false" bordercolor="0x000000" background="false" backgroundcolor="0xffffff" selectable="false" width="44" height="18" />
+			</info_time>
+		</task_loading>
+		<trackimage x="0" y="0" width="0" height="0" visible="false" anchor="TL" />
+		<text_title visible="false" format="{num}.{title}" align="center" color="0xffffff" font="Arial" bold="false" italic="false" underline="false" size="12" multiline="false" wordwrap="false" border="true" bordercolor="0x000000" background="false" backgroundcolor="0xffffff" selectable="false" x="0" y="0" width="0" height="0" anchor="TL" />
+		<text_time visible="true" format="{time}" align="center" color="0x6C6B6B" font="Arial" bold="true" italic="false" underline="false" size="10" multiline="false" wordwrap="false" border="false" bordercolor="0x000000" background="false" backgroundcolor="0xffffff" selectable="false" x="126" y="4" width="40" height="16" anchor="B=10,L" />
+		<text_totaltime visible="true" format="{totaltime}" align="center" color="0x6C6B6B" font="Arial" bold="true" italic="false" underline="false" size="10" multiline="false" wordwrap="false" border="false" bordercolor="0x000000" background="false" backgroundcolor="0xffffff" selectable="false" x="10" y="4" width="40" height="16" anchor="B=10,R=109" />
+		<text_percent visible="false" format="{percent}%" align="left" color="0xffffff" font="Arial" bold="false" italic="false" underline="false" size="10" multiline="false" wordwrap="false" border="false" bordercolor="0x000000" background="false" backgroundcolor="0xffffff" selectable="false" x="0" y="0" width="0" height="0" anchor="TL" />
+		<text_lefttime visible="false" format="{lefttime}" align="left" color="0xffffff" font="Arial" bold="false" italic="false" underline="false" size="10" multiline="false" wordwrap="false" border="false" bordercolor="0x000000" background="false" backgroundcolor="0xffffff" selectable="false" x="0" y="0" width="0" height="0" anchor="TL" />
+		<background image="player_images/control_bg.png" anchor="BLR" />
+	</control>
+
+	<listbox x="0" y="0" uselistbox="false" scroll="false" scroll_position="l" default_status="open" close_missx="0" close_missy="10" stylelist="air" scroll_to_track="true" count_track="{num}." show_list_x="0" show_list_y="0" show_list_width="330" show_list_height="250" background="0x000000" anchor="TBLR" >
+		<style_normal scrollbar="true" mousescroll_bottomend="false" mousewheel="true">
+			<track>
+				<text_title visible="true" align="center" color="0xffffff" font="Arial" bold="false" italic="false" underline="false" size="12" multiline="false" wordwrap="false" border="false" bordercolor="0x000000" background="false" backgroundcolor="0xffffff" selectable="false" x="0" y="0" width="170" height="20" anchor="TL" />
+				<text_description visible="true" align="center" color="0xffffff" font="Arial" bold="false" italic="false" underline="false" size="9" multiline="false" wordwrap="false" border="false" bordercolor="0x000000" background="false" backgroundcolor="0xffffff" selectable="false" x="0" y="0" width="0" height="0" anchor="TL" />
+				<bt_download image="" x="180" y="2.5" show="true" anchor="TL" />
+				<imageTrack x="5" y="5" width="40" height="40" show="false" anchor="TL" />
+				<background image_out="" image_over="" image_select="" anchor="TL" />
+			</track>
+			<scrollbar x="250" y="0" anchor="TL" >
+				<scroller_top image="" />
+				<scroller image="" />
+				<scroller_bottom image="" />
+				<background image="" />
+			</scrollbar>
+		</style_normal>
+		<style_air levelshow="2" percent_decrease="20" speed="5" >
+			<track width="150" height="100" show_reflect="true" color_out="0xcccccc" color_over="0xffffff" color_glow="0xffffff" blurx="10" blury="10" mask_color="0x000000" mask_alpha="80" anchor="T=30,B=30,LR" >
+				<imageTrack decrease="5" />
+				<reflect distance="5" percent_show="50" />
+			</track>
+			<bt_left image="" x="10" y="105" anchor="TL" />
+			<bt_right image="" x="470" y="105" anchor="TL" />
+			<text_title visible="true" align="center" color="0xffffff" font="Arial" bold="false" italic="false" underline="false" size="12" multiline="false" wordwrap="false" border="false" bordercolor="0x000000" background="false" backgroundcolor="0xffffff" selectable="false" x="0" y="5" width="200" height="20" anchor="TBLR" />
+			<text_description visible="false" align="center" color="0xffffff" font="Arial" bold="false" italic="false" underline="false" size="12" multiline="false" wordwrap="false" border="false" bordercolor="0x000000" background="false" backgroundcolor="0xffffff" selectable="false" x="150" y="20" width="200" height="20" anchor="TL" />
+			<text_count visible="false" format="{cur}/{total}" align="center" color="0xffffff" font="Arial" bold="false" italic="false" underline="false" size="12" multiline="false" wordwrap="false" border="false" bordercolor="0x000000" background="false" backgroundcolor="0xffffff" selectable="false" x="225" y="220" width="50" height="20" anchor="TL" />
+		</style_air>
+	</listbox>
+
+	<menu_rightclick>
+		<info text="Copright ©2011 by Vuaphim.Vn" visible="true" />
+		<fullscreen text="FullScreen" separator="true" visible="true" />
+		<stretch text_normal="Normal" text_stretch="Stretch" text_fill="Fill" text_center="Center" separator="false" visible="true" />
+		<download target="_self" text="Download" separator="true" visible="true" />
+		<embed text="Copy Embed" separator="true" visible="false" />
+		<youtubeQuality text_medium="360p" text_large="480p" text_hd720="720p-HD" text_hd1080="1080p-HD" separator="true" visible="true" />
+	</menu_rightclick>
+
+	<addon link="" x="0" y="0" anchor="TL" />
+	<background image="" anchor="TL" />
+</PlayerSkin>

@@ -1,0 +1,15 @@
+			 <div class="block list_films">
+				<h2 class="title">Phim Cùng Thể Loại</h2>
+			<div class="content"> 
+            
+					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/running_229.html" title="Running - 난닝, 구"><img src="http://1.bp.blogspot.com/_nXvP3SM2-AY/TJTspsJETKI/AAAAAAAAAEM/rnIOYdjf0Xk/s1600/running.png" alt="Running - 난닝, 구" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/running_229.html" alt="{film.NAME}" title="Running - 난닝, 구"> Running - 난닝, ...</a></p>
+                						<p class="views">Lượt xem: 884</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/dieu-uoc-gian-don_127.html" title="Điều Ước Giản Đơn - Album Vol 2"><img src="http://img.tamtay.vn/files/photo2/2010/8/25/19/1347935/4c750e61_53a0674f_dieu-uoc-gian-don-akira-phan.jpg" alt="Điều Ước Giản Đơn - Album Vol 2" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/dieu-uoc-gian-don_127.html" alt="{film.NAME}" title="Điều Ước Giản Đơn - Album Vol 2"> Điều Ước Giản ...</a></p>
+                						<p class="views">Lượt xem: 968</p></li>
+</div></div>
+<div class="clear"></div>

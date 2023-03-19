@@ -1,0 +1,21 @@
+       <div class="block list_films">
+				<h2 class="title">Bạn Đã Xem Chưa</h2>
+			<div class="content"> 
+            <ul>
+<!-- BEGIN film_menu -->
+
+<!-- #BEGIN rand_film.start_tag --><tr><!-- #END rand_film.start_tag -->
+
+<!-- #BEGIN rand_film.row -->					
+                	<li><div class="poster">
+  									<a href="{film.URL}" title="{film.TITLE}"><img src="{film.IMG}" alt="{film.TITLE}" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="{film.URL}" alt="{film.NAME}" title="{film.TITLE}">{film.CUT_NAME}</a></p>
+                						<p class="views">Lượt xem: {film.VIEWED}</p></li>
+<!-- #END rand_film.row -->
+
+<!-- #BEGIN rand_film.end_tag --></tr><!-- #END rand_film.end_tag -->
+
+<!-- END film_menu -->	</ul>
+</div></div>		
+
+<div class="clear"></div>

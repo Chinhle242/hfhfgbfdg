@@ -1,0 +1,55 @@
+			 <div class="block list_films">
+				<h2 class="title">Phim Cùng Thể Loại</h2>
+			<div class="content"> 
+            
+					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/con-cuong-no_320.html" title="Cơn Cuồng Nộ - Damage"><img src="http://3.bp.blogspot.com/_2chwtc8RoJ0/TLsgd5AiUCI/AAAAAAAAAKw/rANtLJKD074/s400/Damage.jpg" alt="Cơn Cuồng Nộ - Damage" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/con-cuong-no_320.html" alt="{film.NAME}" title="Cơn Cuồng Nộ - Damage"> Cơn Cuồng Nộ ...</a></p>
+                						<p class="views">Lượt xem: 3186</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/thoi-dai-sat-thu_302.html" title="Thời Đại Sát Thủ - Reign of Assassins"><img src="http://4.bp.blogspot.com/_o5eqZU8vsfw/TLNOgvL4aoI/AAAAAAAAAF8/a6uEUluEiNg/s1600/thoi-dai-sat-thu-Reign-Of-Assassins-1.jpg" alt="Thời Đại Sát Thủ - Reign of Assassins" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/thoi-dai-sat-thu_302.html" alt="{film.NAME}" title="Thời Đại Sát Thủ - Reign of Assassins"> Thời Đại Sát ...</a></p>
+                						<p class="views">Lượt xem: 14728</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/tu-than-giau-mat_312.html" title="Tử Thần Giấu Mặt - The Dark Lurking"><img src="http://1.bp.blogspot.com/_2chwtc8RoJ0/TLcc_jzxRKI/AAAAAAAAAJ4/MRwSZco4178/s400/thedarklurking2010.jpg" alt="Tử Thần Giấu Mặt - The Dark Lurking" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/tu-than-giau-mat_312.html" alt="{film.NAME}" title="Tử Thần Giấu Mặt - The Dark Lurking"> Tử Thần Giấu ...</a></p>
+                						<p class="views">Lượt xem: 2977</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/smokin-aces-2-assassins-ball_309.html" title="Smokin Aces 2: Assassins Ball"><img src="http://2.bp.blogspot.com/_2chwtc8RoJ0/TLbA1Nvx8EI/AAAAAAAAAJo/WyHBqcPZm-E/s400/Smokin+Aces+2+Assassins+Ball.jpg" alt="Smokin Aces 2: Assassins Ball" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/smokin-aces-2-assassins-ball_309.html" alt="{film.NAME}" title="Smokin Aces 2: Assassins Ball"> Smokin Aces 2: ...</a></p>
+                						<p class="views">Lượt xem: 1285</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/brooklyns-finest_308.html" title="Brooklyns Finest"><img src="http://1.bp.blogspot.com/_2chwtc8RoJ0/TLa7r4qNEPI/AAAAAAAAAJg/A7Pq4pcwF9c/s400/4726136673_a283a282e8_o.jpg" alt="Brooklyns Finest" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/brooklyns-finest_308.html" alt="{film.NAME}" title="Brooklyns Finest">Brooklyns Finest</a></p>
+                						<p class="views">Lượt xem: 790</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/cuop-than-tuyet-sac_298.html" title="Cướp Thần Tuyệt Sắc - Martial Angels"><img src="http://3.bp.blogspot.com/_fEGexqLDsvY/TLG9tJOvvII/AAAAAAAAADQ/IWkV6fu16rk/s1600/Martial-Angels-poster.jpg" alt="Cướp Thần Tuyệt Sắc - Martial Angels" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/cuop-than-tuyet-sac_298.html" alt="{film.NAME}" title="Cướp Thần Tuyệt Sắc - Martial Angels"> Cướp Thần Tuyệt ...</a></p>
+                						<p class="views">Lượt xem: 3240</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/tu-chien-ma-ca-rong_292.html" title="Tử Chiến Ma Cà Rồng - Daybreakers"><img src="http://3.bp.blogspot.com/_pbu2OzI9WjQ/TK4LExCnIUI/AAAAAAAAAEw/iRR_aPqQgHw/s1600/Day+Breaker.jpg" alt="Tử Chiến Ma Cà Rồng - Daybreakers" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/tu-chien-ma-ca-rong_292.html" alt="{film.NAME}" title="Tử Chiến Ma Cà Rồng - Daybreakers"> Tử Chiến Ma ...</a></p>
+                						<p class="views">Lượt xem: 2286</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/trum-san-tien-thuong_290.html" title="Trùm Săn Tiền Thưởng - Jonah Hex"><img src="http://2.bp.blogspot.com/_pbu2OzI9WjQ/TKxuG264ijI/AAAAAAAAAEo/676q16nXR9I/s1600/Jonah+Hex.jpg" alt="Trùm Săn Tiền Thưởng - Jonah Hex" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/trum-san-tien-thuong_290.html" alt="{film.NAME}" title="Trùm Săn Tiền Thưởng - Jonah Hex"> Trùm Săn Tiền ...</a></p>
+                						<p class="views">Lượt xem: 7030</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/ke-cap-tia-chop_289.html" title="Kẻ Cắp Tia Chớp - Percy Jackson And The Olympians: The Lightning Thief"><img src="http://1.bp.blogspot.com/_fEGexqLDsvY/TKyN3ILi5RI/AAAAAAAAACw/OwC9UNrQsGY/s1600/Percy-Jackson-And-The-Olympians-The-Lightning-Thief-poster.jpg" alt="Kẻ Cắp Tia Chớp - Percy Jackson And The Olympians: The Lightning Thief" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/ke-cap-tia-chop_289.html" alt="{film.NAME}" title="Kẻ Cắp Tia Chớp - Percy Jackson And The Olympians: The Lightning Thief"> Kẻ Cắp Tia ...</a></p>
+                						<p class="views">Lượt xem: 1611</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/vung-dat-quy-du-kiep-sau_228.html" title="Vùng Đất Quỷ Dữ: Kiếp Sau - Resident Evil: Afterlife"><img src="http://img.tamtay.vn/files/photo2/2010/9/17/22/1412317/4c93873b_64ee57f0_resident-evil-afterlife-poster.jpg" alt="Vùng Đất Quỷ Dữ: Kiếp Sau - Resident Evil: Afterlife" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/vung-dat-quy-du-kiep-sau_228.html" alt="{film.NAME}" title="Vùng Đất Quỷ Dữ: Kiếp Sau - Resident Evil: Afterlife"> Vùng Đất Quỷ ...</a></p>
+                						<p class="views">Lượt xem: 14380</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/off-limits_288.html" title="Off Limits - Gardiens De Lordre"><img src="http://4.bp.blogspot.com/_pbu2OzI9WjQ/TKvxLFTSQVI/AAAAAAAAAEg/7eX2BPKKSbI/s1600/Off+limits.jpg" alt="Off Limits - Gardiens De Lordre" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/off-limits_288.html" alt="{film.NAME}" title="Off Limits - Gardiens De Lordre"> Off Limits - ...</a></p>
+                						<p class="views">Lượt xem: 1589</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/cham-thi-chet--thuong-vuong-chi-vuong_25.html" title="Chậm Thì Chết - Thương Vương Chi Vương - Triple Tap"><img src="http://2.bp.blogspot.com/_pbu2OzI9WjQ/TKseZ2wp1wI/AAAAAAAAAEY/jWzSJ8jnMwQ/s1600/tripletaptrailer.jpg" alt="Chậm Thì Chết - Thương Vương Chi Vương - Triple Tap" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/cham-thi-chet--thuong-vuong-chi-vuong_25.html" alt="{film.NAME}" title="Chậm Thì Chết - Thương Vương Chi Vương - Triple Tap"> Chậm Thì Chết ...</a></p>
+                						<p class="views">Lượt xem: 3418</p></li>
+</div></div>
+<div class="clear"></div>

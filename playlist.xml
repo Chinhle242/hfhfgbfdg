@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<playlist xmlns="http://xspf.org/ns/0/">
+	<trackList>
+		<track>
+			<title>Iron man 2</title>
+			<location>http://www.youtube.com/watch?v=FNQowwwwYa0</location>
+			<info>http://www.youtube.com/watch?v=FNQowwwwYa0</info>
+			<description>Trailer</description>
+		</track>
+		<track>
+			<title>Tron Legacy</title>
+			<location>http://www.youtube.com/watch?v=-xxLw7S6EaA</location>
+			<info>http://www.youtube.com/watch?v=-xxLw7S6EaA</info>
+			<description>Trailer</description>
+		</track>
+		<track>
+			<title>Mortal Kombat 9</title>
+			<location>http://www.youtube.com/watch?v=izVZsnCiaWk</location>
+			<info>http://www.youtube.com/watch?v=izVZsnCiaWk</info>
+			<description>Gameplay</description>
+		</track>
+	</trackList>
+</playlist>

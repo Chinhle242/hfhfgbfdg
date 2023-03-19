@@ -1,0 +1,55 @@
+			 <div class="block list_films">
+				<h2 class="title">Phim Cùng Thể Loại</h2>
+			<div class="content"> 
+            
+					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/wall-e-biet-yeu_464.html" title="Wall-E biết yêu - "><img src="http://t2.gstatic.com/images?q=tbn:ANd9GcTMbj-8DeyC3MJpekAGFrg1oQ7xa5kF4Jk4z-DNrD5YTb558zAi" alt="Wall-E biết yêu - " width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/wall-e-biet-yeu_464.html" alt="{film.NAME}" title="Wall-E biết yêu - "> Wall-E biết yêu ...</a></p>
+                						<p class="views">Lượt xem: 34</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/bolt--tia-chop_470.html" title="Bolt - Tia Chớp - "><img src="http://t3.gstatic.com/images?q=tbn:ANd9GcS_FlQb02kjxSTNgfzhvcFrZCFWnXmx3Ehs3i0DqARNSv90M2jrZQ" alt="Bolt - Tia Chớp - " width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/bolt--tia-chop_470.html" alt="{film.NAME}" title="Bolt - Tia Chớp - "> Bolt - Tia ...</a></p>
+                						<p class="views">Lượt xem: 43</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/gulliver-travels_473.html" title="Gulliver Travels - gulliver du ký"><img src="http://t0.gstatic.com/images?q=tbn:ANd9GcRryyqRZUttQCQ178CtjYECnClFoijCkyxGDIaTyro5TjWCFuYgoQ" alt="Gulliver Travels - gulliver du ký" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/gulliver-travels_473.html" alt="{film.NAME}" title="Gulliver Travels - gulliver du ký"> Gulliver Travels - ...</a></p>
+                						<p class="views">Lượt xem: 59</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/up_476.html" title="Up - Vút Bay"><img src="http://t2.gstatic.com/images?q=tbn:ANd9GcTCX-sGtyCJapynTD7XMFjWqWuhE-lfmtksHKMtV5H5JOpamgxY" alt="Up - Vút Bay" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/up_476.html" alt="{film.NAME}" title="Up - Vút Bay"> Up - Vút ...</a></p>
+                						<p class="views">Lượt xem: 40</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/ngay-trai-dat-ngung-quay_396.html" title="Ngày Trái Đất Ngừng Quay"><img src="http://movie.zing.vn/Movie/resources/images/picture/9/The-Day-the-Earth-Stood-Still-poster.jpg" alt="Ngày Trái Đất Ngừng Quay" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/ngay-trai-dat-ngung-quay_396.html" alt="{film.NAME}" title="Ngày Trái Đất Ngừng Quay"> Ngày Trái Đất ...</a></p>
+                						<p class="views">Lượt xem: 1348</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/silverado--ban-cham-thi-chet_370.html" title="Silverado - Bắn chậm thì chết"><img src="http://1giay.net/wp-content/uploads/2010/10/BanChamThiChet.jpg" alt="Silverado - Bắn chậm thì chết" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/silverado--ban-cham-thi-chet_370.html" alt="{film.NAME}" title="Silverado - Bắn chậm thì chết"> Silverado - Bắn ...</a></p>
+                						<p class="views">Lượt xem: 1107</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/nhung-cau-chuyen-kho-tin_359.html" title="Những câu chuyên khó tin - The Unbelievable"><img src="http://1.bp.blogspot.com/_2chwtc8RoJ0/TMwFlTPVGLI/AAAAAAAAAN4/2Msd9FAc7b0/s400/bian.jpg" alt="Những câu chuyên khó tin - The Unbelievable" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/nhung-cau-chuyen-kho-tin_359.html" alt="{film.NAME}" title="Những câu chuyên khó tin - The Unbelievable"> Những câu chuyên ...</a></p>
+                						<p class="views">Lượt xem: 1939</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/biet-doi-chuot-lang_358.html" title="Biệt Đội Chuột Lang - G-Force"><img src="http://4.bp.blogspot.com/_2chwtc8RoJ0/TMv2rGKmS4I/AAAAAAAAANw/4J7tKchhTsI/s400/G-Force-poster.jpg" alt="Biệt Đội Chuột Lang - G-Force" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/biet-doi-chuot-lang_358.html" alt="{film.NAME}" title="Biệt Đội Chuột Lang - G-Force"> Biệt Đội Chuột ...</a></p>
+                						<p class="views">Lượt xem: 691</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/bay-vien-ngoc-rong_301.html" title="Bảy Viên Ngọc Rồng - Dragonball Evolution"><img src="http://1.bp.blogspot.com/_fEGexqLDsvY/TLLbyO3MtMI/AAAAAAAAADg/axWNLCw-i7s/s1600/Dragonball-Z-poster.jpg" alt="Bảy Viên Ngọc Rồng - Dragonball Evolution" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/bay-vien-ngoc-rong_301.html" alt="{film.NAME}" title="Bảy Viên Ngọc Rồng - Dragonball Evolution"> Bảy Viên Ngọc ...</a></p>
+                						<p class="views">Lượt xem: 1561</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/vi-thanh-song--ngu-khi-su-cuoi-cung_97.html" title="Vị Thánh Sống - Ngự Khí Sư Cuối Cùng - The Last Airbender"><img src="http://4.bp.blogspot.com/_pbu2OzI9WjQ/TKi3hXRUfJI/AAAAAAAAAEQ/DbdI5tEbNto/s1600/Vi+thanh+song+poster.jpg" alt="Vị Thánh Sống - Ngự Khí Sư Cuối Cùng - The Last Airbender" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/vi-thanh-song--ngu-khi-su-cuoi-cung_97.html" alt="{film.NAME}" title="Vị Thánh Sống - Ngự Khí Sư Cuối Cùng - The Last Airbender"> Vị Thánh Sống ...</a></p>
+                						<p class="views">Lượt xem: 5360</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/bi-an-cung-trang_276.html" title="Bí Ẩn Cung Trăng - The Secret Of Moonacr"><img src="http://2.bp.blogspot.com/_2chwtc8RoJ0/TKTOzTuyLgI/AAAAAAAAAH4/CYFw-GBbBEk/s1600/thesecretofmoonacre-3.jpg" alt="Bí Ẩn Cung Trăng - The Secret Of Moonacr" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/bi-an-cung-trang_276.html" alt="{film.NAME}" title="Bí Ẩn Cung Trăng - The Secret Of Moonacr"> Bí Ẩn Cung ...</a></p>
+                						<p class="views">Lượt xem: 1556</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/cuoc-chien-cho-va-meo-2_224.html" title="Cuộc Chiến Chó và Mèo 2 - Cats And Dogs 2"><img src="http://3.bp.blogspot.com/_nXvP3SM2-AY/TJJmxNVSd_I/AAAAAAAAAD0/QdOzkBt9Fec/s1600/Cats_and_dogs_the_revenge_of_kitty_galore_poster.jpg" alt="Cuộc Chiến Chó và Mèo 2 - Cats And Dogs 2" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/cuoc-chien-cho-va-meo-2_224.html" alt="{film.NAME}" title="Cuộc Chiến Chó và Mèo 2 - Cats And Dogs 2"> Cuộc Chiến Chó ...</a></p>
+                						<p class="views">Lượt xem: 2648</p></li>
+</div></div>
+<div class="clear"></div>

@@ -1,0 +1,16 @@
+<div class="box">
+	<div class="btitle"><h2>ĐĂNG NHẬP</h2></div>
+	<div class="bcontent">
+		<form name="login_form" method="post" action="/user/login">
+			<label for="login_username">Username:</label><br />
+			<input name="username" type="text" value="" id="login_username" class="login" /><br />
+			<label for="login_password">Password:</label><br />
+
+            <input name="pass" type="password" value="" id="login_password" class="login" /><br /><br />
+			<input id="current_url" name="current_url"  style="display:none" value="{URL}" />
+			&raquo;<a class="smaller" href="user/lost/" rel="nofollow" id="lost_password"> Quên Mật Khẩu?</a><br />
+		&raquo;<a class="smaller" href="user/reg/" rel="nofollow" id="confirmation_email"> Đăng Kí?</a><br /><br />			
+			<input name="submit" type="submit" value="Log In" id="login_submit" class="button" />
+		</form>
+	</div>
+</div>

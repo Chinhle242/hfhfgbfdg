@@ -1,0 +1,6 @@
+﻿<?
+$text=$HTTP_SERVER_VARS['QUERY_STRING'];
+$text = preg_replace("#php\&#si",'php?',$text);
+echo('<br><br><br><br><br><br><br><center><a href=http://vuaphim.net'.$text.'><font color="#009900" size="16">Bấm vào đây để xem phim</font></a><br>
+</center>');
+?>

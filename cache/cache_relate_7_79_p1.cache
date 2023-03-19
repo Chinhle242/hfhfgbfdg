@@ -1,0 +1,55 @@
+			 <div class="block list_films">
+				<h2 class="title">Phim Cùng Thể Loại</h2>
+			<div class="content"> 
+            
+					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/dai-tieu-giang-ho_487.html" title="Đại Tiếu Giang Hồ - Just Call Me Nobody 2010"><img src="http://i929.photobucket.com/albums/ad136/lancuoia/1297738508-jcmn.jpg" alt="Đại Tiếu Giang Hồ - Just Call Me Nobody 2010" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/dai-tieu-giang-ho_487.html" alt="{film.NAME}" title="Đại Tiếu Giang Hồ - Just Call Me Nobody 2010"> Đại Tiếu Giang ...</a></p>
+                						<p class="views">Lượt xem: 278</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/de-mai-tinh_412.html" title="Để Mai Tính - De Mai Tinh 2010"><img src="http://i929.photobucket.com/albums/ad136/lancuoia/De-Mai-Tinh-poster.jpg" alt="Để Mai Tính - De Mai Tinh 2010" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/de-mai-tinh_412.html" alt="{film.NAME}" title="Để Mai Tính - De Mai Tinh 2010"> Để Mai Tính ...</a></p>
+                						<p class="views">Lượt xem: 184</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/chuyen-tinh-chang-mat-hi_433.html" title="Chuyện tình chàng mắt hí - "><img src="http://movie.zing.vn/Movie/resources/images/picture/51/Chuyen-Tinh-Chang-Mat-Hi-poster.jpg" alt="Chuyện tình chàng mắt hí - " width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/chuyen-tinh-chang-mat-hi_433.html" alt="{film.NAME}" title="Chuyện tình chàng mắt hí - "> Chuyện tình chàng ...</a></p>
+                						<p class="views">Lượt xem: 110</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/jungle-fish-season-2_385.html" title="Jungle Fish Season 2 - 정글피쉬 시즌 2"><img src="http://2.bp.blogspot.com/_2chwtc8RoJ0/TNgjnbtWk-I/AAAAAAAAAQI/Uv8mu1ewCZQ/s400/jungle.jpg" alt="Jungle Fish Season 2 - 정글피쉬 시즌 2" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/jungle-fish-season-2_385.html" alt="{film.NAME}" title="Jungle Fish Season 2 - 정글피쉬 시즌 2"> Jungle Fish Season ...</a></p>
+                						<p class="views">Lượt xem: 4075</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/thu-huong-va-duong-ba-ho-2010-hd_439.html" title="Thu Hương Và Đường Bá Hổ 2010-HD - "><img src="http://t2.gstatic.com/images?q=tbn:ANd9GcRY9Do1GjIc94Qojtb4P7SkHlXDBjetY8II4omVjljOcPphaxlG" alt="Thu Hương Và Đường Bá Hổ 2010-HD - " width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/thu-huong-va-duong-ba-ho-2010-hd_439.html" alt="{film.NAME}" title="Thu Hương Và Đường Bá Hổ 2010-HD - "> Thu Hương Và ...</a></p>
+                						<p class="views">Lượt xem: 501</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/hannah-montana_425.html" title="Hannah Montana - "><img src="http://2.bp.blogspot.com/-pQ9x4YgClVM/TZyLdNUD-XI/AAAAAAAAAAg/C-PuSvQNOMk/s320/index.jpeg" alt="Hannah Montana - " width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/hannah-montana_425.html" alt="{film.NAME}" title="Hannah Montana - "> Hannah Montana - ...</a></p>
+                						<p class="views">Lượt xem: 111</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/hello-ghost-2010_423.html" title="Hello Ghost 2010 - Ma ơi chào mi !"><img src="http://t1.gstatic.com/images?q=tbn:ANd9GcTR1VS1Ll8CDCeNyzlaiRXIKL6GEAKRf5mNiuVtmeUiiUEOGBVI" alt="Hello Ghost 2010 - Ma ơi chào mi !" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/hello-ghost-2010_423.html" alt="{film.NAME}" title="Hello Ghost 2010 - Ma ơi chào mi !"> Hello Ghost 2010 ...</a></p>
+                						<p class="views">Lượt xem: 140</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/cong-chúa-teen-va-ngu-ho-tuong_411.html" title="Công Chúa Teen và ngũ Hổ tướng - "><img src="http://t0.gstatic.com/images?q=tbn:ANd9GcSy1Qy1tBwQr8nAh3mGEjKnjBCbm9WDpQk_hJ-fCLlyYNKz-v56mA" alt="Công Chúa Teen và ngũ Hổ tướng - " width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/cong-chúa-teen-va-ngu-ho-tuong_411.html" alt="{film.NAME}" title="Công Chúa Teen và ngũ Hổ tướng - "> Công Chúa Teen ...</a></p>
+                						<p class="views">Lượt xem: 179</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/nhat-ky-cau-be-nhut-nhat_114.html" title="Nhật Ký Cậu Bé Nhút Nhát - Diary Of A Wimpy Kid"><img src="http://img.tamtay.vn/files/photo2/2010/8/26/0/750297/4c7557e3_7fade1f1_diary-of-a-wimpy-kid.jpg" alt="Nhật Ký Cậu Bé Nhút Nhát - Diary Of A Wimpy Kid" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/nhat-ky-cau-be-nhut-nhat_114.html" alt="{film.NAME}" title="Nhật Ký Cậu Bé Nhút Nhát - Diary Of A Wimpy Kid"> Nhật Ký Cậu ...</a></p>
+                						<p class="views">Lượt xem: 1574</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/the-kid--charles-chaplin_405.html" title="The Kid - Charles Chaplin"><img src="http://4.bp.blogspot.com/_fEGexqLDsvY/TOQBtnJzRhI/AAAAAAAAAFg/JIrrbz7RRCQ/s1600/the-kid-1921.jpg" alt="The Kid - Charles Chaplin" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/the-kid--charles-chaplin_405.html" alt="{film.NAME}" title="The Kid - Charles Chaplin"> The Kid - ...</a></p>
+                						<p class="views">Lượt xem: 541</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/giai-cuu-than-chet_398.html" title="Giải Cứu Thần Chết"><img src="http://3.bp.blogspot.com/_fEGexqLDsvY/TN99s2iKe6I/AAAAAAAAAFA/QImI8ljfO7k/s1600/giai-cuu-than-chet.jpg" alt="Giải Cứu Thần Chết" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/giai-cuu-than-chet_398.html" alt="{film.NAME}" title="Giải Cứu Thần Chết"> Giải Cứu Thần ...</a></p>
+                						<p class="views">Lượt xem: 2049</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/cau-be-quyen-nang_369.html" title="Cậu bé quyền năng - Mostly Ghostly"><img src="http://1.bp.blogspot.com/_2chwtc8RoJ0/TM5tyXiX5UI/AAAAAAAAAO4/1la4yVsRsLk/s400/caubequyennang.jpg" alt="Cậu bé quyền năng - Mostly Ghostly" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/cau-be-quyen-nang_369.html" alt="{film.NAME}" title="Cậu bé quyền năng - Mostly Ghostly"> Cậu bé quyền ...</a></p>
+                						<p class="views">Lượt xem: 1323</p></li>
+</div></div>
+<div class="clear"></div>

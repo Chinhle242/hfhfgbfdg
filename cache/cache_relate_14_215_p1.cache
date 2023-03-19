@@ -1,0 +1,19 @@
+			 <div class="block list_films">
+				<h2 class="title">Phim Cùng Thể Loại</h2>
+			<div class="content"> 
+            
+					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/ke-bat-tu_272.html" title="Kẻ Bất Tử - 22 Bullets"><img src="http://2.bp.blogspot.com/_fEGexqLDsvY/TKdBPrUOF0I/AAAAAAAAACI/y0fl1tAULnI/s1600/22-Bullets.jpg" alt="Kẻ Bất Tử - 22 Bullets" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/ke-bat-tu_272.html" alt="{film.NAME}" title="Kẻ Bất Tử - 22 Bullets"> Kẻ Bất Tử ...</a></p>
+                						<p class="views">Lượt xem: 573</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/tinh-bao_169.html" title="Tình Báo - Rendition"><img src="http://img.tamtay.vn/files/photo2/2010/8/30/22/750297/4c7bce5f_5def95cb_rendition.jpg" alt="Tình Báo - Rendition" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/tinh-bao_169.html" alt="{film.NAME}" title="Tình Báo - Rendition"> Tình Báo - ...</a></p>
+                						<p class="views">Lượt xem: 315</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/canh-sat-dan-choi_145.html" title="Cảnh Sát Dân Chơi - Playboy Cops"><img src="http://cA7.upanh.com/12.387.16618071.XVO0/canh_sat_dan_choi.jpg" alt="Cảnh Sát Dân Chơi - Playboy Cops" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/canh-sat-dan-choi_145.html" alt="{film.NAME}" title="Cảnh Sát Dân Chơi - Playboy Cops"> Cảnh Sát Dân ...</a></p>
+                						<p class="views">Lượt xem: 635</p></li>
+</div></div>
+<div class="clear"></div>

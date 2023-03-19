@@ -1,0 +1,31 @@
+			 <div class="block list_films">
+				<h2 class="title">Phim Cùng Thể Loại</h2>
+			<div class="content"> 
+            
+					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/tan-tam-quoc-dien-nghia--three-kingdoms-2010_153.html" title="Tân Tam Quốc Diễn Nghĩa - Three Kingdoms 2010 - Tân Tam Quốc Diễn Nghĩa 2010"><img src="http://img.tamtay.vn/files/photo2/2010/8/28/21/1363747/4c79180d_20dac7c9_tan-tam-quoc-dien-nghia-2010.jpg" alt="Tân Tam Quốc Diễn Nghĩa - Three Kingdoms 2010 - Tân Tam Quốc Diễn Nghĩa 2010" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/tan-tam-quoc-dien-nghia--three-kingdoms-2010_153.html" alt="{film.NAME}" title="Tân Tam Quốc Diễn Nghĩa - Three Kingdoms 2010 - Tân Tam Quốc Diễn Nghĩa 2010"> Tân Tam Quốc ...</a></p>
+                						<p class="views">Lượt xem: 3759</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/ben-duoi-ngon-doi_314.html" title="Bên Dưới Ngọn Đồi - Beneath Hill"><img src="http://1.bp.blogspot.com/_2chwtc8RoJ0/TLdDv4lofiI/AAAAAAAAAKA/KIbmbCtnt-E/s400/beneathhill.jpg" alt="Bên Dưới Ngọn Đồi - Beneath Hill" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/ben-duoi-ngon-doi_314.html" alt="{film.NAME}" title="Bên Dưới Ngọn Đồi - Beneath Hill"> Bên Dưới Ngọn ...</a></p>
+                						<p class="views">Lượt xem: 1754</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/do-doc-hai-quan_300.html" title="Đô Đốc Hải Quân - Admiral"><img src="http://2.bp.blogspot.com/_fEGexqLDsvY/TLK9P3gmASI/AAAAAAAAADY/jnoVwJdLMnQ/s320/Admiral.jpg" alt="Đô Đốc Hải Quân - Admiral" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/do-doc-hai-quan_300.html" alt="{film.NAME}" title="Đô Đốc Hải Quân - Admiral"> Đô Đốc Hải ...</a></p>
+                						<p class="views">Lượt xem: 2008</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/diep-huyet-co-thanh_282.html" title="Điệp Huyết Cô Thành - Death and Glory in Changde"><img src="http://2.bp.blogspot.com/_fEGexqLDsvY/TKnHac0BexI/AAAAAAAAACg/CrasAcOW6BU/s1600/diep-huyet-co-thanh.jpg" alt="Điệp Huyết Cô Thành - Death and Glory in Changde" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/diep-huyet-co-thanh_282.html" alt="{film.NAME}" title="Điệp Huyết Cô Thành - Death and Glory in Changde"> Điệp Huyết Cô ...</a></p>
+                						<p class="views">Lượt xem: 1361</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/trong-vong-lua-dan_240.html" title="Trong Vòng Lửa Đạn - 71: Into the Fire"><img src="http://img.tamtay.vn/files/photo2/2010/9/21/22/750297/4c98ce78_09717214_into%20the%20fire.jpg" alt="Trong Vòng Lửa Đạn - 71: Into the Fire" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/trong-vong-lua-dan_240.html" alt="{film.NAME}" title="Trong Vòng Lửa Đạn - 71: Into the Fire"> Trong Vòng Lửa ...</a></p>
+                						<p class="views">Lượt xem: 1912</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/300-chien-binh_23.html" title="300 Chiến Binh - 300"><img src="http://img.tamtay.vn/files/photo2/2010/8/3/15/750297/4c57cf62_12149063_vuaphim.net-300-chien-binh-poster.jpg" alt="300 Chiến Binh - 300" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/300-chien-binh_23.html" alt="{film.NAME}" title="300 Chiến Binh - 300"> 300 Chiến Binh ...</a></p>
+                						<p class="views">Lượt xem: 1806</p></li>
+</div></div>
+<div class="clear"></div>

@@ -1,0 +1,55 @@
+			 <div class="block list_films">
+				<h2 class="title">Phim Cùng Thể Loại</h2>
+			<div class="content"> 
+            
+					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/thu-gui-juliet_238.html" title="Thư gửi Juliet - Letters To Juliet"><img src="http://2.bp.blogspot.com/_pbu2OzI9WjQ/TJdtX-lxDtI/AAAAAAAAABc/GacvJzIMMew/s1600/letters-to-juliet-poster.jpg" alt="Thư gửi Juliet - Letters To Juliet" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/thu-gui-juliet_238.html" alt="{film.NAME}" title="Thư gửi Juliet - Letters To Juliet"> Thư gửi Juliet ...</a></p>
+                						<p class="views">Lượt xem: 863</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/song-hoa-diem_236.html" title="Song Hoa Điếm - A Frozen Flower"><img src="http://img.tamtay.vn/files/photo2/2010/9/21/14/750297/4c985c83_1fbdefb0_a-frozen-flower-poster.jpg" alt="Song Hoa Điếm - A Frozen Flower" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/song-hoa-diem_236.html" alt="{film.NAME}" title="Song Hoa Điếm - A Frozen Flower"> Song Hoa Điếm ...</a></p>
+                						<p class="views">Lượt xem: 1410</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/chuyen-ay-la-chuyen-nho_67.html" title="Chuyện Ấy Là Chuyện Nhỏ - Sex And The City 2"><img src="http://2.bp.blogspot.com/_2chwtc8RoJ0/TJjj8pQlaGI/AAAAAAAAAFI/LZ1V_to3B7M/s400/chuyenaylachuyennho.jpg" alt="Chuyện Ấy Là Chuyện Nhỏ - Sex And The City 2" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/chuyen-ay-la-chuyen-nho_67.html" alt="{film.NAME}" title="Chuyện Ấy Là Chuyện Nhỏ - Sex And The City 2"> Chuyện Ấy Là ...</a></p>
+                						<p class="views">Lượt xem: 3952</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/dong-phong-vu_103.html" title="Đông Phong Vũ - East Wind Rain"><img src="http://3.bp.blogspot.com/_2chwtc8RoJ0/TJjiK8tl9QI/AAAAAAAAAEg/9lnS1cxMQxM/s400/dongphongvu-poster.jpg" alt="Đông Phong Vũ - East Wind Rain" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/dong-phong-vu_103.html" alt="{film.NAME}" title="Đông Phong Vũ - East Wind Rain"> Đông Phong Vũ ...</a></p>
+                						<p class="views">Lượt xem: 909</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/ben-do-ke-tiep-hanh-phuc_39.html" title="Bến Đỗ Kế Tiếp Hạnh Phúc - Autumn Concerto"><img src="http://2.bp.blogspot.com/_2chwtc8RoJ0/TJjh77-UoPI/AAAAAAAAAEY/27NJn_DIdmA/s400/81599396.jpg" alt="Bến Đỗ Kế Tiếp Hạnh Phúc - Autumn Concerto" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/ben-do-ke-tiep-hanh-phuc_39.html" alt="{film.NAME}" title="Bến Đỗ Kế Tiếp Hạnh Phúc - Autumn Concerto"> Bến Đỗ Kế ...</a></p>
+                						<p class="views">Lượt xem: 1924</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/giant_19.html" title="Giant"><img src="http://4.bp.blogspot.com/_2chwtc8RoJ0/TJjf0VtAMzI/AAAAAAAAADw/puk4zG1zjko/s1600/gaint.jpg" alt="Giant" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/giant_19.html" alt="{film.NAME}" title="Giant">Giant</a></p>
+                						<p class="views">Lượt xem: 1672</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/p.s-man_83.html" title="P.S Man"><img src="http://3.bp.blogspot.com/_2chwtc8RoJ0/TJjZcCmok5I/AAAAAAAAADo/Gmz46Nd3en4/s1600/PS-Man-poster.jpg" alt="P.S Man" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/p.s-man_83.html" alt="{film.NAME}" title="P.S Man">P.S Man</a></p>
+                						<p class="views">Lượt xem: 8384</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/co-gai-hoan-my_230.html" title="Cô Gái Hoàn Mỹ - Perfect Girl Evolution"><img src="http://4.bp.blogspot.com/_nXvP3SM2-AY/TJTrG2064hI/AAAAAAAAAEE/w13NtScRwDY/s1600/yamanade-poster.jpg" alt="Cô Gái Hoàn Mỹ - Perfect Girl Evolution" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/co-gai-hoan-my_230.html" alt="{film.NAME}" title="Cô Gái Hoàn Mỹ - Perfect Girl Evolution"> Cô Gái Hoàn ...</a></p>
+                						<p class="views">Lượt xem: 779</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/thieu-nu-noi-loan_218.html" title="Thiếu Nữ Nổi Loạn - The Runaways"><img src="http://4.bp.blogspot.com/_nXvP3SM2-AY/TJD6kgQbpZI/AAAAAAAAADQ/k8esvpwKrzg/s1600/thieu-nu-noi-loan.jpg" alt="Thiếu Nữ Nổi Loạn - The Runaways" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/thieu-nu-noi-loan_218.html" alt="{film.NAME}" title="Thiếu Nữ Nổi Loạn - The Runaways"> Thiếu Nữ Nổi ...</a></p>
+                						<p class="views">Lượt xem: 1389</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/co-gai-di-tim-tinh-yeu_110.html" title="Cô Gái Đi Tìm Tình Yêu - Leap Year"><img src="http://1.bp.blogspot.com/_nXvP3SM2-AY/TJJZE8-R6LI/AAAAAAAAADs/fjDol5xcoCU/s1600/co-gai-di-tim-tinh-yeu-poster.jpg" alt="Cô Gái Đi Tìm Tình Yêu - Leap Year" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/co-gai-di-tim-tinh-yeu_110.html" alt="{film.NAME}" title="Cô Gái Đi Tìm Tình Yêu - Leap Year"> Cô Gái Đi ...</a></p>
+                						<p class="views">Lượt xem: 792</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/my-nhan-tam-ke_219.html" title="Mỹ Nhân Tâm Kế - Schemes of a Beauty"><img src="http://2.bp.blogspot.com/_nXvP3SM2-AY/TI9FN9Btx7I/AAAAAAAAACc/IjKscNRcP-w/s1600/my-nhan-tam-ky-poster.png" alt="Mỹ Nhân Tâm Kế - Schemes of a Beauty" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/my-nhan-tam-ke_219.html" alt="{film.NAME}" title="Mỹ Nhân Tâm Kế - Schemes of a Beauty"> Mỹ Nhân Tâm ...</a></p>
+                						<p class="views">Lượt xem: 1971</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/tue-nguyet-than-thau--cau-vong-khuyet_116.html" title="Tuế Nguyệt Thần Thâu - Cầu Vồng Khuyết - Echoes of the Rainbow"><img src="http://1.bp.blogspot.com/_nXvP3SM2-AY/TI9FxjgJRUI/AAAAAAAAACk/CKEAUcugkOw/s1600/echoes-of-the-rainbow.jpg" alt="Tuế Nguyệt Thần Thâu - Cầu Vồng Khuyết - Echoes of the Rainbow" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/tue-nguyet-than-thau--cau-vong-khuyet_116.html" alt="{film.NAME}" title="Tuế Nguyệt Thần Thâu - Cầu Vồng Khuyết - Echoes of the Rainbow"> Tuế Nguyệt Thần ...</a></p>
+                						<p class="views">Lượt xem: 489</p></li>
+</div></div>
+<div class="clear"></div>

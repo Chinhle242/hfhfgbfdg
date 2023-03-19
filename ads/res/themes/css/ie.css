@@ -1,0 +1,5 @@
+﻿/* fix for IE6 */
+* html #home .home-content .right-box .slideshow
+{
+    margin-left: 5px;
+}

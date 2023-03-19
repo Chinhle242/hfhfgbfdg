@@ -1,0 +1,55 @@
+			 <div class="block list_films">
+				<h2 class="title">Phim Cùng Thể Loại</h2>
+			<div class="content"> 
+            
+					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/the-killing-jar_233.html" title="The Killing Jar"><img src="http://4.bp.blogspot.com/_nXvP3SM2-AY/TJZVyz-ckwI/AAAAAAAAAEc/RkHYAQ-128U/s1600/The+Killing+Jar+Poster.jpg" alt="The Killing Jar" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/the-killing-jar_233.html" alt="{film.NAME}" title="The Killing Jar">The Killing Jar</a></p>
+                						<p class="views">Lượt xem: 548</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/chuyen-tinh-sat-thu_206.html" title="Chuyện Tình Sát Thủ - Knight and Day"><img src="http://img.tamtay.vn/files/photo2/2010/9/10/21/1347935/4c8a3d2b_2de2412c_knight-and-day.jpg" alt="Chuyện Tình Sát Thủ - Knight and Day" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/chuyen-tinh-sat-thu_206.html" alt="{film.NAME}" title="Chuyện Tình Sát Thủ - Knight and Day"> Chuyện Tình Sát ...</a></p>
+                						<p class="views">Lượt xem: 3279</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/hoc-vien-majisuka-gakuen_231.html" title="Học viện Majisuka Gakuen - Majisuka Gakuen"><img src="http://img.tamtay.vn/files/photo2/2010/9/19/0/1412317/4c94f8d7_7654e4e2_majisuka%20poster.jpg" alt="Học viện Majisuka Gakuen - Majisuka Gakuen" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/hoc-vien-majisuka-gakuen_231.html" alt="{film.NAME}" title="Học viện Majisuka Gakuen - Majisuka Gakuen"> Học viện Majisuka ...</a></p>
+                						<p class="views">Lượt xem: 2072</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/sinh-tu-chien_223.html" title="Sinh tử chiến - The King Of Fighter"><img src="http://img.tamtay.vn/files/photo2/2010/9/16/10/1412317/4c918900_44bff129_sinh%20tu%20chien%20poster.jpg" alt="Sinh tử chiến - The King Of Fighter" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/sinh-tu-chien_223.html" alt="{film.NAME}" title="Sinh tử chiến - The King Of Fighter"> Sinh tử chiến ...</a></p>
+                						<p class="views">Lượt xem: 2517</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/robin-hood_119.html" title="Robin Hood"><img src="http://3.bp.blogspot.com/_nXvP3SM2-AY/TJD8Wj2u0yI/AAAAAAAAADY/P_I6pIk0Zws/s1600/robin-hood---dvd-poster.gif" alt="Robin Hood" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/robin-hood_119.html" alt="{film.NAME}" title="Robin Hood">Robin Hood</a></p>
+                						<p class="views">Lượt xem: 1322</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/avatar_217.html" title="Avatar"><img src="http://2.bp.blogspot.com/_nXvP3SM2-AY/TIu3Xwh9CtI/AAAAAAAAAAs/bNuerK9TR_Q/s1600/avatar-poster.jpg" alt="Avatar" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/avatar_217.html" alt="{film.NAME}" title="Avatar">Avatar</a></p>
+                						<p class="views">Lượt xem: 3527</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/quai-thu-vo-hinh-3--predators-3--da-thu_109.html" title="Quái Thú Vô Hình 3 - Predators 3 - Dã Thú - Predator 3"><img src="http://3.bp.blogspot.com/_nXvP3SM2-AY/TI4YainkvkI/AAAAAAAAACA/VdumZ8DtN3A/s1600/Phim-Predators-Poster-1.jpg" alt="Quái Thú Vô Hình 3 - Predators 3 - Dã Thú - Predator 3" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/quai-thu-vo-hinh-3--predators-3--da-thu_109.html" alt="{film.NAME}" title="Quái Thú Vô Hình 3 - Predators 3 - Dã Thú - Predator 3"> Quái Thú Vô ...</a></p>
+                						<p class="views">Lượt xem: 8074</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/com-quay_134.html" title="Cớm Quậy - Cop Out"><img src="http://1.bp.blogspot.com/_2chwtc8RoJ0/TI0FfzJqsWI/AAAAAAAAACA/cL_uaF1ZAtA/s1600/com-quay-poster.jpg" alt="Cớm Quậy - Cop Out" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/com-quay_134.html" alt="{film.NAME}" title="Cớm Quậy - Cop Out"> Cớm Quậy - ...</a></p>
+                						<p class="views">Lượt xem: 822</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/dong-mau-anh-hung_165.html" title="Dòng Máu Anh Hùng - The Rebel"><img src="http://2.bp.blogspot.com/_nXvP3SM2-AY/TIzNHKbH91I/AAAAAAAAABk/SzaRVFvXrO0/s1600/dong-mau-anh-hung_the-rebel.JPG" alt="Dòng Máu Anh Hùng - The Rebel" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/dong-mau-anh-hung_165.html" alt="{film.NAME}" title="Dòng Máu Anh Hùng - The Rebel"> Dòng Máu Anh ...</a></p>
+                						<p class="views">Lượt xem: 1891</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/cao-boi-mat-sung_211.html" title="Cao bồi mất súng - Gunless"><img src="http://3.bp.blogspot.com/_o5eqZU8vsfw/TIuUDO2REAI/AAAAAAAAAE0/p094GVnDL7E/s320/gunless-poster.jpg" alt="Cao bồi mất súng - Gunless" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/cao-boi-mat-sung_211.html" alt="{film.NAME}" title="Cao bồi mất súng - Gunless"> Cao bồi mất ...</a></p>
+                						<p class="views">Lượt xem: 1790</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/di-nhan-1_160.html" title="Dị Nhân 1 - X Men 1"><img src="http://img.tamtay.vn/files/photo2/2010/9/8/11/1347935/4c87153d_4ce76311_x_men_one.jpg" alt="Dị Nhân 1 - X Men 1" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/di-nhan-1_160.html" alt="{film.NAME}" title="Dị Nhân 1 - X Men 1"> Dị Nhân 1 ...</a></p>
+                						<p class="views">Lượt xem: 1089</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/nguoi-sat-2_199.html" title="Người Sắt 2 - Iron Man 2"><img src="http://img.tamtay.vn/files/photo2/2010/9/6/17/1347935/4c84c2db_7be6889e_iron-man-2_.jpg" alt="Người Sắt 2 - Iron Man 2" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/nguoi-sat-2_199.html" alt="{film.NAME}" title="Người Sắt 2 - Iron Man 2"> Người Sắt 2 ...</a></p>
+                						<p class="views">Lượt xem: 5549</p></li>
+</div></div>
+<div class="clear"></div>

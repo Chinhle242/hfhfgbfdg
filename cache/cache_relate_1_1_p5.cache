@@ -1,0 +1,55 @@
+			 <div class="block list_films">
+				<h2 class="title">Phim Cùng Thể Loại</h2>
+			<div class="content"> 
+            
+					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/sat-thu-hoc-viec_366.html" title="Sát Thủ Học Việc - Wild Target"><img src="http://2.bp.blogspot.com/_2chwtc8RoJ0/TM5MrqB33lI/AAAAAAAAAOw/6Zz2URW3w7c/s400/satthuhocviec.jpg" alt="Sát Thủ Học Việc - Wild Target" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/sat-thu-hoc-viec_366.html" alt="{film.NAME}" title="Sát Thủ Học Việc - Wild Target"> Sát Thủ Học ...</a></p>
+                						<p class="views">Lượt xem: 4171</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/hoai-tu_379.html" title="Hoại tử - Necrosis"><img src="http://2.bp.blogspot.com/_2chwtc8RoJ0/TNQxRciaDZI/AAAAAAAAAPo/3ioH0j4U7wU/s400/Necrosis_2009.jpg" alt="Hoại tử - Necrosis" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/hoai-tu_379.html" alt="{film.NAME}" title="Hoại tử - Necrosis"> Hoại tử - ...</a></p>
+                						<p class="views">Lượt xem: 3196</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/born-to-raise-hell_374.html" title="Born To Raise Hell"><img src="http://4.bp.blogspot.com/_2chwtc8RoJ0/TNGWkPs405I/AAAAAAAAAPA/-tngabyPA0M/s400/Born+To+Raise+Hell.jpg" alt="Born To Raise Hell" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/born-to-raise-hell_374.html" alt="{film.NAME}" title="Born To Raise Hell"> Born To Raise ...</a></p>
+                						<p class="views">Lượt xem: 2080</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/kill-speed--giet-toc-do_373.html" title="Kill Speed - Giết Tốc Độ"><img src="http://www.bassentertainmentpictures.com/images/KillSpeed_Poster_Large.jpg" alt="Kill Speed - Giết Tốc Độ" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/kill-speed--giet-toc-do_373.html" alt="{film.NAME}" title="Kill Speed - Giết Tốc Độ"> Kill Speed - ...</a></p>
+                						<p class="views">Lượt xem: 4312</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/ke-2-mat_364.html" title="Kẻ 2 mặt - Icarus"><img src="http://3.bp.blogspot.com/_2chwtc8RoJ0/TM5Es0GLDTI/AAAAAAAAAOo/YcY2o5YNoc8/s400/k%C3%A8mat.jpg" alt="Kẻ 2 mặt - Icarus" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/ke-2-mat_364.html" alt="{film.NAME}" title="Kẻ 2 mặt - Icarus"> Kẻ 2 mặt ...</a></p>
+                						<p class="views">Lượt xem: 1294</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/besouro_361.html" title="Besouro"><img src="http://3.bp.blogspot.com/_2chwtc8RoJ0/TMxJchc-ADI/AAAAAAAAAOQ/376zl5Xyd4A/s400/289501.jpg" alt="Besouro" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/besouro_361.html" alt="{film.NAME}" title="Besouro">Besouro</a></p>
+                						<p class="views">Lượt xem: 4148</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/guong-quy_360.html" title="Gương quỷ - Mirrors II"><img src="http://4.bp.blogspot.com/_2chwtc8RoJ0/TMwWtSPYydI/AAAAAAAAAOA/ircQGImMx-I/s400/guongquy.jpg" alt="Gương quỷ - Mirrors II" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/guong-quy_360.html" alt="{film.NAME}" title="Gương quỷ - Mirrors II"> Gương quỷ - ...</a></p>
+                						<p class="views">Lượt xem: 1294</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/cuoc-chien-bang-dang-1--smokin-aces-1_356.html" title="Cuộc Chiến Băng Đảng 1 - Smokin Aces 1"><img src="http://ca6.upanh.com/15.396.19675036.lIg0/smokinacesver2xlg.jpg" alt="Cuộc Chiến Băng Đảng 1 - Smokin Aces 1" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/cuoc-chien-bang-dang-1--smokin-aces-1_356.html" alt="{film.NAME}" title="Cuộc Chiến Băng Đảng 1 - Smokin Aces 1"> Cuộc Chiến Băng ...</a></p>
+                						<p class="views">Lượt xem: 1539</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/do-cao--altitude_353.html" title="Độ Cao - Altitude"><img src="http://imup.info/u/data/2010/10/28/1288267689-altitude-movie-poster-jpg.jpg" alt="Độ Cao - Altitude" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/do-cao--altitude_353.html" alt="{film.NAME}" title="Độ Cao - Altitude"> Độ Cao - ...</a></p>
+                						<p class="views">Lượt xem: 1637</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/tim-va-diet-–-hunt-to-kill_352.html" title="Tìm và diệt – Hunt To Kill - Lùng Diệt – Hunt To Kill"><img src="http://woovideo.net/www.img_server2/content/anchor-bay/hunt_to_kill.jpg" alt="Tìm và diệt – Hunt To Kill - Lùng Diệt – Hunt To Kill" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/tim-va-diet-–-hunt-to-kill_352.html" alt="{film.NAME}" title="Tìm và diệt – Hunt To Kill - Lùng Diệt – Hunt To Kill"> Tìm và diệt ...</a></p>
+                						<p class="views">Lượt xem: 3925</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/cuoc-chien-bang-dang-2--smokin-aces2_349.html" title="Cuộc chiến băng đãng 2 - Smokin Aces2"><img src="http://www.malextra.com/image-library/port/376/s/smokin-aces-2-dvd.jpg" alt="Cuộc chiến băng đãng 2 - Smokin Aces2" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/cuoc-chien-bang-dang-2--smokin-aces2_349.html" alt="{film.NAME}" title="Cuộc chiến băng đãng 2 - Smokin Aces2"> Cuộc chiến băng ...</a></p>
+                						<p class="views">Lượt xem: 1518</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/sieu-toc-do-ii_345.html" title="Siêu Tốc Độ II - Fast Track: No Limits"><img src="http://3.bp.blogspot.com/_2chwtc8RoJ0/TMPTq9JOsAI/AAAAAAAAANY/eHA2K4DBJ5k/s400/fasttrack.jpg" alt="Siêu Tốc Độ II - Fast Track: No Limits" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/sieu-toc-do-ii_345.html" alt="{film.NAME}" title="Siêu Tốc Độ II - Fast Track: No Limits"> Siêu Tốc Độ ...</a></p>
+                						<p class="views">Lượt xem: 4276</p></li>
+</div></div>
+<div class="clear"></div>

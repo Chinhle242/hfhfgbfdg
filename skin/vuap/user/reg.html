@@ -1,0 +1,44 @@
+<div class="box">
+            <div class="btitle">
+ 				<h2>Đăng kí thành viên</h2>
+
+              
+                <div class="clear"></div>
+           	</div>
+			<div style="margin:5px; 15px;">
+    
+{ERROR}
+<form  method="post">
+	<table>
+		<tr>
+			<td>Tên đăng nhập:</td>
+			<td><input type="text" value="{USER.NAME}" id="username" name="username" maxlength="30" size="25"> <span class="note">*</span></td>
+		</tr>
+		<tr>
+			<td>Mật khẩu:</td>
+			<td><input  type="password" id="pass" name="pass" maxlength="30" size="25"> <span class="note">*</span></td>
+		</tr>
+		<tr>
+			<td>Nhập lại mật khẩu:</td>
+			<td><input  type="password" id="confirmpass" name="confirmpass" maxlength="30" size="25"> <span class="note">*</span></td>
+		</tr>		
+		<tr>
+			<td>Email:</td>
+			<td><input  type="text" value="{MAIL}" id="email" name="email" maxlength="250" size="25"> <span class="note">*</span></td>
+		</tr>	
+		<tr>
+			<td>Mã bảo vệ:</td>
+			<td><input name="security" id="security" size="25" value="Mã bảo vệ" Onclick="this.select()"/> &nbsp; <img src="{SERCURITY}" align="absmiddle"> <span class="note">*</span></td>
+		</tr>			
+		<tr>
+		  <td colspan="2"><input type="checkbox" name="agree" /> <i><span class="note">Tôi đồng ý với quy định của vuaphim.vn!</span></i></td>
+		</tr>
+		<tr>
+			<td colspan="2" style="padding-top:15px;" align="center"><input type="submit" name="submit" id="submit" value="Đăng Kí">&nbsp;<input type="reset" value="Làm Lại"></td>
+		</tr>										
+	</table>
+</form>	
+			
+			</div>			
+                <div class="clear_left"></div>
+</div>

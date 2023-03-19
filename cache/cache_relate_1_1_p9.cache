@@ -1,0 +1,55 @@
+			 <div class="block list_films">
+				<h2 class="title">Phim Cùng Thể Loại</h2>
+			<div class="content"> 
+            
+					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/nhung-ke-thi-nghiem--cuoc-thu-nghiem_251.html" title="Những Kẻ Thí Nghiệm - Cuộc Thử Nghiệm - The Experiment"><img src="http://3.bp.blogspot.com/_pbu2OzI9WjQ/TJzp_eIPewI/AAAAAAAAACw/C0YKFO39hTY/s1600/The-Experiment-poster.jpeg" alt="Những Kẻ Thí Nghiệm - Cuộc Thử Nghiệm - The Experiment" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/nhung-ke-thi-nghiem--cuoc-thu-nghiem_251.html" alt="{film.NAME}" title="Những Kẻ Thí Nghiệm - Cuộc Thử Nghiệm - The Experiment"> Những Kẻ Thí ...</a></p>
+                						<p class="views">Lượt xem: 1782</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/bi-an-sau-thi-tran_244.html" title="Bí Ẩn Sau Thị Trấn - Wrong Side Of Town"><img src="http://2.bp.blogspot.com/_pbu2OzI9WjQ/TJq7t1MC3HI/AAAAAAAAACM/8diKc-eylss/s1600/Wrong+Side+Of+Town.jpg" alt="Bí Ẩn Sau Thị Trấn - Wrong Side Of Town" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/bi-an-sau-thi-tran_244.html" alt="{film.NAME}" title="Bí Ẩn Sau Thị Trấn - Wrong Side Of Town"> Bí Ẩn Sau ...</a></p>
+                						<p class="views">Lượt xem: 2514</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/vuot-nguc-1_173.html" title="Vượt Ngục 1 - Prison Break Fisrt Season"><img src="http://img.tamtay.vn/files/photo2/2010/9/8/11/1347935/4c871441_771f2e99_vuot-nguc-poster.jpg" alt="Vượt Ngục 1 - Prison Break Fisrt Season" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/vuot-nguc-1_173.html" alt="{film.NAME}" title="Vượt Ngục 1 - Prison Break Fisrt Season"> Vượt Ngục 1 ...</a></p>
+                						<p class="views">Lượt xem: 2137</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/chien-dich-chong-khung-bo_82.html" title="Chiến Dịch Chống Khủng Bố - Operation Endgame"><img src="http://1.bp.blogspot.com/_2chwtc8RoJ0/TJjjq2zflRI/AAAAAAAAAFA/52T35zM9Ykc/s400/chiendichchongkhungbo.jpg" alt="Chiến Dịch Chống Khủng Bố - Operation Endgame" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/chien-dich-chong-khung-bo_82.html" alt="{film.NAME}" title="Chiến Dịch Chống Khủng Bố - Operation Endgame"> Chiến Dịch Chống ...</a></p>
+                						<p class="views">Lượt xem: 949</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/an-tron_102.html" title="Ẩn Trốn - Shelter"><img src="http://4.bp.blogspot.com/_2chwtc8RoJ0/TJjjW9re0MI/AAAAAAAAAE4/3rpF_HqvrMo/s400/antron-poster.jpg" alt="Ẩn Trốn - Shelter" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/an-tron_102.html" alt="{film.NAME}" title="Ẩn Trốn - Shelter"> Ẩn Trốn - ...</a></p>
+                						<p class="views">Lượt xem: 738</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/hanh-dong-gay-can_34.html" title="Hành Động Gay Cấn - A Man Called God"><img src="http://1.bp.blogspot.com/_2chwtc8RoJ0/TJjivU1ZkYI/AAAAAAAAAEo/f--BKqybzrA/s1600/1z4bsic.jpg" alt="Hành Động Gay Cấn - A Man Called God" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/hanh-dong-gay-can_34.html" alt="{film.NAME}" title="Hành Động Gay Cấn - A Man Called God"> Hành Động Gay ...</a></p>
+                						<p class="views">Lượt xem: 6261</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/quai-kiet-that-the_75.html" title="Quái Kiệt Thất Thế - The Losers"><img src="http://3.bp.blogspot.com/_pbu2OzI9WjQ/TJjg3XwbpAI/AAAAAAAAAB8/P1eDLRHzBok/s1600/quai-kiet-that-the.jpg" alt="Quái Kiệt Thất Thế - The Losers" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/quai-kiet-that-the_75.html" alt="{film.NAME}" title="Quái Kiệt Thất Thế - The Losers"> Quái Kiệt Thất ...</a></p>
+                						<p class="views">Lượt xem: 1324</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/tien-chuoc-den_73.html" title="Tiền Chuộc Đen - Black Ransom"><img src="http://2.bp.blogspot.com/_2chwtc8RoJ0/TJjgvWV2cJI/AAAAAAAAAD4/x41mwdESQ-M/s1600/blackransomposter.jpg" alt="Tiền Chuộc Đen - Black Ransom" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/tien-chuoc-den_73.html" alt="{film.NAME}" title="Tiền Chuộc Đen - Black Ransom"> Tiền Chuộc Đen ...</a></p>
+                						<p class="views">Lượt xem: 1646</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/hanh-dong-dac-sac_235.html" title="Hành Động Đặc Sắc - Prince"><img src="http://1.bp.blogspot.com/_2chwtc8RoJ0/TJdxOUTa3lI/AAAAAAAAADI/vDIIeyWkDR4/s1600/Prince-poster.jpg" alt="Hành Động Đặc Sắc - Prince" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/hanh-dong-dac-sac_235.html" alt="{film.NAME}" title="Hành Động Đặc Sắc - Prince"> Hành Động Đặc ...</a></p>
+                						<p class="views">Lượt xem: 3512</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/canh-sat-tuong-lai_51.html" title="Cảnh Sát Tương Lai - Future X-Cops"><img src="http://3.bp.blogspot.com/_pbu2OzI9WjQ/TJjaGH4YEbI/AAAAAAAAABs/djWngRVrZUQ/s1600/canh-sat-tuong-lai-poster.jpg" alt="Cảnh Sát Tương Lai - Future X-Cops" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/canh-sat-tuong-lai_51.html" alt="{film.NAME}" title="Cảnh Sát Tương Lai - Future X-Cops"> Cảnh Sát Tương ...</a></p>
+                						<p class="views">Lượt xem: 1822</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/to-chuc-bi-mat-2_234.html" title="Tổ chức bí mật 2 - Men In Black 2"><img src="http://3.bp.blogspot.com/_nXvP3SM2-AY/TJZV6qfQcRI/AAAAAAAAAEk/rb4-301jC2U/s1600/men+in+black+2+poster.jpg" alt="Tổ chức bí mật 2 - Men In Black 2" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/to-chuc-bi-mat-2_234.html" alt="{film.NAME}" title="Tổ chức bí mật 2 - Men In Black 2"> Tổ chức bí ...</a></p>
+                						<p class="views">Lượt xem: 1383</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/repo-men_52.html" title="Repo Men - Repo-Men"><img src="http://4.bp.blogspot.com/_nXvP3SM2-AY/TJdfG0bvRqI/AAAAAAAAAEw/xymFig3RFLs/s1600/repomen.jpg" alt="Repo Men - Repo-Men" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/repo-men_52.html" alt="{film.NAME}" title="Repo Men - Repo-Men"> Repo Men - ...</a></p>
+                						<p class="views">Lượt xem: 1503</p></li>
+</div></div>
+<div class="clear"></div>

@@ -1,0 +1,55 @@
+			 <div class="block list_films">
+				<h2 class="title">Phim Cùng Thể Loại</h2>
+			<div class="content"> 
+            
+					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/ma-tran-iii_475.html" title="Ma Trận III - The Matrix Revolutions"><img src="http://t2.gstatic.com/images?q=tbn:ANd9GcSkvMcyMlTrEeVAM6puqZMz615_fkPQoJm0aW_J0aTo0_3IlfPoVg" alt="Ma Trận III - The Matrix Revolutions" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/ma-tran-iii_475.html" alt="{film.NAME}" title="Ma Trận III - The Matrix Revolutions"> Ma Trận III ...</a></p>
+                						<p class="views">Lượt xem: 428</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/thien-nu-u-hon-2011_481.html" title="Thiện Nữ U Hồn 2011 - Thien Nu U Hon 2011"><img src="http://1.bp.blogspot.com/-DjM2A4OOEjE/Tb5I08LFvWI/AAAAAAAAAdw/iDLjrzweTWw/s1600/A%2BChinese%2Bghost%2Bstory%2Bposter.jpg" alt="Thiện Nữ U Hồn 2011 - Thien Nu U Hon 2011" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/thien-nu-u-hon-2011_481.html" alt="{film.NAME}" title="Thiện Nữ U Hồn 2011 - Thien Nu U Hon 2011"> Thiện Nữ U ...</a></p>
+                						<p class="views">Lượt xem: 321</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/7-vi-la-han_483.html" title="7 Vị La Hán - Seven Arhat 2010"><img src="http://4.bp.blogspot.com/_2chwtc8RoJ0/TMGn74ZBurI/AAAAAAAAAM4/PSE9lwlHSps/s400/7vilahan.jpg" alt="7 Vị La Hán - Seven Arhat 2010" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/7-vi-la-han_483.html" alt="{film.NAME}" title="7 Vị La Hán - Seven Arhat 2010"> 7 Vị La ...</a></p>
+                						<p class="views">Lượt xem: 89</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/moi-song_480.html" title="Mồi Sống - Flesh Wounds 2011"><img src="http://i929.photobucket.com/albums/ad136/lancuoia/flesh-wounds.jpg" alt="Mồi Sống - Flesh Wounds 2011" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/moi-song_480.html" alt="{film.NAME}" title="Mồi Sống - Flesh Wounds 2011"> Mồi Sống - ...</a></p>
+                						<p class="views">Lượt xem: 243</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/kungfu-gau-truc-2_477.html" title="Kungfu Gấu Trúc 2 - Kungfu Panda 2 2011"><img src="http://i929.photobucket.com/albums/ad136/lancuoia/KungFuPanda2Poster.jpg" alt="Kungfu Gấu Trúc 2 - Kungfu Panda 2 2011" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/kungfu-gau-truc-2_477.html" alt="{film.NAME}" title="Kungfu Gấu Trúc 2 - Kungfu Panda 2 2011"> Kungfu Gấu Trúc ...</a></p>
+                						<p class="views">Lượt xem: 702</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/red-riding-hood-2011_474.html" title="Red Riding Hood 2011 - "><img src="http://i929.photobucket.com/albums/ad136/lancuoia/red_riding_hood_poster03.jpg" alt="Red Riding Hood 2011 - " width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/red-riding-hood-2011_474.html" alt="{film.NAME}" title="Red Riding Hood 2011 - "> Red Riding Hood ...</a></p>
+                						<p class="views">Lượt xem: 136</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/di-tim-thanh-long_404.html" title="Đi Tìm Thành Long - Jackie Chan Kung Fu Master"><img src="http://2.bp.blogspot.com/_fEGexqLDsvY/TOKZfBolHeI/AAAAAAAAAFY/BF3ksRStjEc/s1600/Jackie-Chan-Kung-Fu-Master.jpg" alt="Đi Tìm Thành Long - Jackie Chan Kung Fu Master" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/di-tim-thanh-long_404.html" alt="{film.NAME}" title="Đi Tìm Thành Long - Jackie Chan Kung Fu Master"> Đi Tìm Thành ...</a></p>
+                						<p class="views">Lượt xem: 6231</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/ngay-tan-the_453.html" title="Ngày tận thế - Armageddon"><img src="http://t2.gstatic.com/images?q=tbn:ANd9GcSTBggZA3tL8raIDCVEfXs7ktyGUFwJE4ruKdvHz3SWxgWpXnCNPA" alt="Ngày tận thế - Armageddon" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/ngay-tan-the_453.html" alt="{film.NAME}" title="Ngày tận thế - Armageddon"> Ngày tận thế ...</a></p>
+                						<p class="views">Lượt xem: 212</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/drive-angry-2011_456.html" title="Drive Angry 2011 - Sứ Giả Địa Ngục"><img src="http://i929.photobucket.com/albums/ad136/lancuoia/drive-angry-3d-poster.jpg" alt="Drive Angry 2011 - Sứ Giả Địa Ngục" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/drive-angry-2011_456.html" alt="{film.NAME}" title="Drive Angry 2011 - Sứ Giả Địa Ngục"> Drive Angry 2011 ...</a></p>
+                						<p class="views">Lượt xem: 297</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/kick-ass_24.html" title="Kick Ass"><img src="http://movie.zing.vn/Movie/resources/images/thumbnail2/54/Kick-Ass-poster.jpg" alt="Kick Ass" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/kick-ass_24.html" alt="{film.NAME}" title="Kick Ass">Kick Ass</a></p>
+                						<p class="views">Lượt xem: 562</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/sat-thu-nikita-tap-9_220.html" title="Sát thủ Nikita Tập 9 - Nikita First Season Ep 9"><img src="http://3.bp.blogspot.com/_nXvP3SM2-AY/TI9yP7DKggI/AAAAAAAAAC0/UJFNZL5ds2c/s1600/sat-thu-nikita-poster.jpg" alt="Sát thủ Nikita Tập 9 - Nikita First Season Ep 9" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/sat-thu-nikita-tap-9_220.html" alt="{film.NAME}" title="Sát thủ Nikita Tập 9 - Nikita First Season Ep 9"> Sát thủ Nikita ...</a></p>
+                						<p class="views">Lượt xem: 58388</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/gai-nhay_430.html" title="Gái nhảy - "><img src="http://t3.gstatic.com/images?q=tbn:ANd9GcTJISMjLX8SYCCdL0z6p852E6PZmXYVVDk8F6FvokT2MM7C7zJBjg" alt="Gái nhảy - " width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/gai-nhay_430.html" alt="{film.NAME}" title="Gái nhảy - "> Gái nhảy - ...</a></p>
+                						<p class="views">Lượt xem: 402</p></li>
+</div></div>
+<div class="clear"></div>

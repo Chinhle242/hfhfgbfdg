@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule inc/^(.*).html$ "http://phim.mrsongphuong.com/index.php"

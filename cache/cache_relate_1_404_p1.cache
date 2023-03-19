@@ -1,0 +1,55 @@
+			 <div class="block list_films">
+				<h2 class="title">Phim Cùng Thể Loại</h2>
+			<div class="content"> 
+            
+					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/giao-si--thay-te_504.html" title="Giáo Sĩ - Thầy Tế - Priest 2011"><img src="http://i850.photobucket.com/albums/ab61/vuaphimteam/Priest-2011-3D-Movie-Poster.jpg" alt="Giáo Sĩ - Thầy Tế - Priest 2011" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/giao-si--thay-te_504.html" alt="{film.NAME}" title="Giáo Sĩ - Thầy Tế - Priest 2011"> Giáo Sĩ - ...</a></p>
+                						<p class="views">Lượt xem: 181</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/quai-hiep-nhat-chi-mai-tap-30/30-_472.html" title="Quái Hiệp Nhất Chi Mai (tập 30/30) - Quai hiep nhat chi mai"><img src="http://images.baamboo.com/film/thumb//46/2011/1/26/11/169542.jpg" alt="Quái Hiệp Nhất Chi Mai (tập 30/30) - Quai hiep nhat chi mai" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/quai-hiep-nhat-chi-mai-tap-30/30-_472.html" alt="{film.NAME}" title="Quái Hiệp Nhất Chi Mai (tập 30/30) - Quai hiep nhat chi mai"> Quái Hiệp Nhất ...</a></p>
+                						<p class="views">Lượt xem: 202</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/hana-bi-an-2011_493.html" title="Hana bí ẩn 2011 - "><img src="http://t2.gstatic.com/images?q=tbn:ANd9GcSkjdg1FJ3WmrxrlbGCRezpvou9dKRD9P8VerdykLk9I1RJSUrN" alt="Hana bí ẩn 2011 - " width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/hana-bi-an-2011_493.html" alt="{film.NAME}" title="Hana bí ẩn 2011 - "> Hana bí ẩn ...</a></p>
+                						<p class="views">Lượt xem: 198</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/toi-la-so-4_495.html" title="Tôi Là Số 4 - I Am Number Four 2011"><img src="http://i850.photobucket.com/albums/ab61/vuaphimteam/toi-la-so-4.jpg" alt="Tôi Là Số 4 - I Am Number Four 2011" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/toi-la-so-4_495.html" alt="{film.NAME}" title="Tôi Là Số 4 - I Am Number Four 2011"> Tôi Là Số ...</a></p>
+                						<p class="views">Lượt xem: 247</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/di-nhan-the-he-dau-tien_496.html" title="Dị Nhân: Thế Hệ Đầu Tiên - X-Men: First Class 2011"><img src="http://i850.photobucket.com/albums/ab61/vuaphimteam/X-Men-First-Class-Poster.jpg" alt="Dị Nhân: Thế Hệ Đầu Tiên - X-Men: First Class 2011" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/di-nhan-the-he-dau-tien_496.html" alt="{film.NAME}" title="Dị Nhân: Thế Hệ Đầu Tiên - X-Men: First Class 2011"> Dị Nhân: Thế ...</a></p>
+                						<p class="views">Lượt xem: 366</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/tan-tay-du-ky-2011_407.html" title="Tân Tây Du Ký 2011 - Tân Tây Du Ký"><img src="http://k14.vcmedia.vn/Images/Uploaded/Share/2010/11/10/101110Cinetayduky01.jpg" alt="Tân Tây Du Ký 2011 - Tân Tây Du Ký" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/tan-tay-du-ky-2011_407.html" alt="{film.NAME}" title="Tân Tây Du Ký 2011 - Tân Tây Du Ký"> Tân Tây Du ...</a></p>
+                						<p class="views">Lượt xem: 26093</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/dat-phuong-nam_438.html" title="Đất phương nam - "><img src="http://t2.gstatic.com/images?q=tbn:ANd9GcQYQB_EWxTjy3SwdRRbu8185x4cWGwxWwiE5-Refpg195ZBcu3cJg" alt="Đất phương nam - " width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/dat-phuong-nam_438.html" alt="{film.NAME}" title="Đất phương nam - "> Đất phương nam ...</a></p>
+                						<p class="views">Lượt xem: 180</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/bay-rong_426.html" title="Bẫy Rồng - bay rong"><img src="http://3.bp.blogspot.com/-8QyU4solXaw/TZ61k3s7TYI/AAAAAAAAAAw/2FhEHqUwl5Q/s320/Clash-poster.jpg" alt="Bẫy Rồng - bay rong" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/bay-rong_426.html" alt="{film.NAME}" title="Bẫy Rồng - bay rong"> Bẫy Rồng - ...</a></p>
+                						<p class="views">Lượt xem: 493</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/tan-thieu-lam-tu-2011_431.html" title="Tân Thiếu Lâm Tự 2011 - Shaolin 2011"><img src="http://vuaphim.vn/images/film/phim_info_147257853.jpg" alt="Tân Thiếu Lâm Tự 2011 - Shaolin 2011" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/tan-thieu-lam-tu-2011_431.html" alt="{film.NAME}" title="Tân Thiếu Lâm Tự 2011 - Shaolin 2011"> Tân Thiếu Lâm ...</a></p>
+                						<p class="views">Lượt xem: 250</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/loa-the-sat-thu_408.html" title="Lõa Thể Sát Thủ"><img src="http://khoc.info/@/images/film/loa-the-sat-thu.jpg" alt="Lõa Thể Sát Thủ" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/loa-the-sat-thu_408.html" alt="{film.NAME}" title="Lõa Thể Sát Thủ"> Lõa Thể Sát ...</a></p>
+                						<p class="views">Lượt xem: 977</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/kokuhaku_502.html" title="Kokuhaku - Lời thú tội"><img src="http://4.bp.blogspot.com/_o5eqZU8vsfw/TUZkN0w05OI/AAAAAAAAAKA/3Tv4h8IgIEg/s1600/loi-thu-toi.jpeg" alt="Kokuhaku - Lời thú tội" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/kokuhaku_502.html" alt="{film.NAME}" title="Kokuhaku - Lời thú tội"> Kokuhaku - Lời ...</a></p>
+                						<p class="views">Lượt xem: 19</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/sucker-punch_498.html" title="Sucker Punch - "><img src="http://t1.gstatic.com/images?q=tbn:ANd9GcR-wjTOG8IGQ3GKRgdX3gdL1gpqEWXTjTx2-ik3oV8ikkqrQDr4" alt="Sucker Punch - " width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/sucker-punch_498.html" alt="{film.NAME}" title="Sucker Punch - "> Sucker Punch - ...</a></p>
+                						<p class="views">Lượt xem: 56</p></li>
+</div></div>
+<div class="clear"></div>

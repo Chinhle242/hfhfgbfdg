@@ -1,0 +1,15 @@
+			 <div class="block list_films">
+				<h2 class="title">Phim Cùng Thể Loại</h2>
+			<div class="content"> 
+            
+					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/sung-kyunk-wan-scandal_180.html" title="Sung kyunk wan Scandal"><img src="http://img.tamtay.vn/files/photo2/2010/9/2/18/1347935/4c7f8e10_1dd9ec7c_sungkyunkwan-scandal-poster.jpg" alt="Sung kyunk wan Scandal" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/sung-kyunk-wan-scandal_180.html" alt="{film.NAME}" title="Sung kyunk wan Scandal"> Sung kyunk wan ...</a></p>
+                						<p class="views">Lượt xem: 9084</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/tan-luu-tinh-ho-diep-kiem-2010_315.html" title="Tân Lưu Tinh Hồ Điệp Kiếm 2010 - Tân Lưu Tinh Hồ Điệp Kiếm"><img src="http://4.bp.blogspot.com/_2chwtc8RoJ0/TLdHEQpR10I/AAAAAAAAAKI/AUp8AT0ASe0/s1600/Luu+Tinh+Ho+Diep+Kiem.jpg" alt="Tân Lưu Tinh Hồ Điệp Kiếm 2010 - Tân Lưu Tinh Hồ Điệp Kiếm" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/tan-luu-tinh-ho-diep-kiem-2010_315.html" alt="{film.NAME}" title="Tân Lưu Tinh Hồ Điệp Kiếm 2010 - Tân Lưu Tinh Hồ Điệp Kiếm"> Tân Lưu Tinh ...</a></p>
+                						<p class="views">Lượt xem: 5340</p></li>
+</div></div>
+<div class="clear"></div>

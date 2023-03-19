@@ -1,0 +1,55 @@
+			 <div class="block list_films">
+				<h2 class="title">Phim Cùng Thể Loại</h2>
+			<div class="content"> 
+            
+					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/the-rite_503.html" title="The Rite - "><img src="http://t0.gstatic.com/images?q=tbn:ANd9GcTMD70C_wuZUjQ0rx2Nft71Tr5B8diYeQWHfgnEOl2Izq6Weo1Dmg" alt="The Rite - " width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/the-rite_503.html" alt="{film.NAME}" title="The Rite - "> The Rite - ...</a></p>
+                						<p class="views">Lượt xem: 53</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/hoa-bi_95.html" title="Họa Bì - Painted Skin"><img src="http://img.tamtay.vn/files/photo2/2010/8/18/13/750297/4c6b7fef_033d5527_painted-skin-poster.jpg" alt="Họa Bì - Painted Skin" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/hoa-bi_95.html" alt="{film.NAME}" title="Họa Bì - Painted Skin"> Họa Bì - ...</a></p>
+                						<p class="views">Lượt xem: 1878</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/ngoi-nha-quy-am-2011-_451.html" title="Ngôi Nhà Quỷ Ám (2011) - Insidious"><img src="http://t1.gstatic.com/images?q=tbn:ANd9GcQ4lfxc_ZTblG_uB-QGQCzIu0gxKoQKqnhiwEjqEJILjs6LJeKmOA" alt="Ngôi Nhà Quỷ Ám (2011) - Insidious" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/ngoi-nha-quy-am-2011-_451.html" alt="{film.NAME}" title="Ngôi Nhà Quỷ Ám (2011) - Insidious"> Ngôi Nhà Quỷ ...</a></p>
+                						<p class="views">Lượt xem: 387</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/ngoi-nha-bi-an--suoi-oan-hon_437.html" title="Ngoi Nha Bi An - Suoi Oan Hon - "><img src="http://t2.gstatic.com/images?q=tbn:ANd9GcTz_dw6g9qEnIsBUYUDS8EbdmQPuwi49gbfaFYTxkpyDAuGnKxnuA" alt="Ngoi Nha Bi An - Suoi Oan Hon - " width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/ngoi-nha-bi-an--suoi-oan-hon_437.html" alt="{film.NAME}" title="Ngoi Nha Bi An - Suoi Oan Hon - "> Ngoi Nha Bi ...</a></p>
+                						<p class="views">Lượt xem: 326</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/monsters_501.html" title="Monsters - Quái Vật"><img src="http://t0.gstatic.com/images?q=tbn:ANd9GcSt_IIBJ30ZjqfDX76I4aWSyjOoOh07dwjtBgdPgLHFsJjWcF4lig" alt="Monsters - Quái Vật" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/monsters_501.html" alt="{film.NAME}" title="Monsters - Quái Vật"> Monsters - Quái ...</a></p>
+                						<p class="views">Lượt xem: 41</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/let-me-in_500.html" title="Let Me In - "><img src="http://images.yume.vn/photo/pictures/20110124/canthomusic10/origin/let_me_in_1227f6f6_2095967337.jpg" alt="Let Me In - " width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/let-me-in_500.html" alt="{film.NAME}" title="Let Me In - "> Let Me In ...</a></p>
+                						<p class="views">Lượt xem: 26</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/buried_499.html" title="Buried - Chôn sống"><img src="http://2.bp.blogspot.com/_o5eqZU8vsfw/TS3GItnOZkI/AAAAAAAAAIE/01MVhuHS060/s1600/buried.jpg" alt="Buried - Chôn sống" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/buried_499.html" alt="{film.NAME}" title="Buried - Chôn sống"> Buried - Chôn ...</a></p>
+                						<p class="views">Lượt xem: 20</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/khu-rung-thuc-giac_478.html" title="Khu Rừng Thức Giấc - Wake Wood 2011"><img src="http://i929.photobucket.com/albums/ad136/lancuoia/wake-wood.jpg" alt="Khu Rừng Thức Giấc - Wake Wood 2011" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/khu-rung-thuc-giac_478.html" alt="{film.NAME}" title="Khu Rừng Thức Giấc - Wake Wood 2011"> Khu Rừng Thức ...</a></p>
+                						<p class="views">Lượt xem: 68</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/ca-sau-an-thit-nguoi--rogue_392.html" title="Cá Sấu Ăn Thịt Người - Rogue"><img src="http://movie.zing.vn/Movie/resources/images/picture/8/roge.jpg" alt="Cá Sấu Ăn Thịt Người - Rogue" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/ca-sau-an-thit-nguoi--rogue_392.html" alt="{film.NAME}" title="Cá Sấu Ăn Thịt Người - Rogue"> Cá Sấu Ăn ...</a></p>
+                						<p class="views">Lượt xem: 2782</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/ngon-nghe-hut-mau-cua-ma-ca-rong_378.html" title="Ngón nghề hút máu của Ma cà rồng - Vampires Suck"><img src="http://3.bp.blogspot.com/_2chwtc8RoJ0/TNLYLj1EeVI/AAAAAAAAAPg/-uZ_2NFrHmM/s400/Vampires.Suck.jpg" alt="Ngón nghề hút máu của Ma cà rồng - Vampires Suck" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/ngon-nghe-hut-mau-cua-ma-ca-rong_378.html" alt="{film.NAME}" title="Ngón nghề hút máu của Ma cà rồng - Vampires Suck"> Ngón nghề hút ...</a></p>
+                						<p class="views">Lượt xem: 1286</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/can-phong-1408-bi-an_376.html" title="Căn phòng 1408 bí ẩn"><img src="http://2.bp.blogspot.com/_2chwtc8RoJ0/TNLOKx2ScKI/AAAAAAAAAPQ/pJ4LiHvsr6I/s400/1408.jpg" alt="Căn phòng 1408 bí ẩn" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/can-phong-1408-bi-an_376.html" alt="{film.NAME}" title="Căn phòng 1408 bí ẩn"> Căn phòng 1408 ...</a></p>
+                						<p class="views">Lượt xem: 1986</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/tieu-thuyet-bi-an_375.html" title="Tiểu Thuyết Bí Ẩn - Bestseller"><img src="http://2.bp.blogspot.com/_2chwtc8RoJ0/TNIv4k33E-I/AAAAAAAAAPI/2R2N6jENsMo/s400/tieuthuyetbian.jpg" alt="Tiểu Thuyết Bí Ẩn - Bestseller" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/tieu-thuyet-bi-an_375.html" alt="{film.NAME}" title="Tiểu Thuyết Bí Ẩn - Bestseller"> Tiểu Thuyết Bí ...</a></p>
+                						<p class="views">Lượt xem: 1010</p></li>
+</div></div>
+<div class="clear"></div>

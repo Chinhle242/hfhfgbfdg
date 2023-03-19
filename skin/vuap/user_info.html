@@ -1,0 +1,36 @@
+<div class="block list_films">
+	<h2 class="title">THÔNG TIN THÀNH VIÊN</h2>
+         <div class="content">
+<table width=99% cellpadding=2 cellspacing=0>
+<tr><td colspan="2" align="center" style="color:#F00">{warn}</td></tr>
+<tr><td class=fr width="30%" align="center"><img src='{avatar}' width=120 height=120></td>
+	<td><table>
+	<tr><td class=fr width="60%"><b>Tài khoản</b></td><td class=fr_2> <b>{name}</b></td></tr>
+    <tr><td class=fr><b>Tên thật</b></td><td class=fr_2> <b>{fullname}</b></td></tr>
+	<tr><td class=fr><b>Quyền hạn</b></td><td class=fr_2> <b>{level}</b></td></tr>
+	<tr><td class=fr><b>Email</b></td><td class=fr_2> <b>{email}</b></td></tr>
+	</table></td></tr>
+</table>
+</div></div>
+ 
+<div class="block list_films" style="display:{show};">
+	<h2 class="title">SỬA THÔNG TIN THÀNH VIÊN</h2>
+         <div class="content">
+            <form method="post" id="user_edit" name="user_edit">
+            <table width=99% cellpadding=2 cellspacing=0>
+<tr><td colspan="2" align="center" style="color:#F00">{edit_warn}</td></tr>
+<tr><td class=fr width="30%" align="center"><img src='{avatar}' width=120 height=120></td>
+                <td><table>
+                <tr><td class=fr width="60%"><b>Avatar</b></td><td class=fr_2><input type="text" value="{avatar}" name="user_avatar" id="user_avatar" /></td></tr>
+                <tr><td class=fr width="60%"><b>Tài khoản</b></td><td class=fr_2><input type="text" value="{name}" name="user_name" id="user_name" readonly="readonly" /></td></tr>
+                <tr><td class=fr width="60%"><b>Mật khẩu cũ</b></td><td class=fr_2><input type="text" value="" name="user_pwd" id="user_pwd"/></td></tr>
+                <tr><td class=fr width="60%"><b>Mật khẩu mới</b></td><td class=fr_2><input type="text" value="" name="user_pwdn" id="user_pwdn"/></td></tr>
+                <tr><td class=fr width="60%"><b>Nhập lại mật khẩu mới</b></td><td class=fr_2><input type="text" value="" name="user_pwdn2" id="user_pwdn2"/></td></tr>
+                <tr><td class=fr><b>Tên thật</b></td><td class=fr_2><input type="text" value="{fullname}" name="user_fullname" id="user_fullname" /></td></tr>
+                <tr><td class=fr><b>Quyền hạn</b></td><td class=fr_2><input type="text" value="{level}" name="user_level" id="user_level" readonly="readonly" /></td></tr>
+                <tr><td class=fr><b>Email</b></td><td class=fr_2><input type="text" value="{email}" name="user_email" id="user_email" /></td></tr>
+                <tr><td class=fr_2 colspan="2" align="center"><input type="submit" value="Cập nhật" name="user_edit" id="user_edit" /></td></tr>
+                </table></td></tr>
+            </table>
+            </form>
+</div></div>

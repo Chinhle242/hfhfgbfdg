@@ -1,0 +1,55 @@
+			 <div class="block list_films">
+				<h2 class="title">Phim Cùng Thể Loại</h2>
+			<div class="content"> 
+            
+					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/thi-tran-smallville-10_283.html" title="Thị Trấn Smallville 10 - Smallville Season 10"><img src="http://1.bp.blogspot.com/_o5eqZU8vsfw/TKnkDIjyltI/AAAAAAAAAFw/Nk_-QjGaXmQ/s1600/Smallville-10.jpg" alt="Thị Trấn Smallville 10 - Smallville Season 10" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/thi-tran-smallville-10_283.html" alt="{film.NAME}" title="Thị Trấn Smallville 10 - Smallville Season 10"> Thị Trấn Smallville ...</a></p>
+                						<p class="views">Lượt xem: 6055</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/paris-ruc-lua_280.html" title="Paris Rực Lửa - From Paris With Love"><img src="http://1.bp.blogspot.com/_2chwtc8RoJ0/TKTK2FtOWGI/AAAAAAAAAHw/PozJSWJ-8IA/s1600/FromPariswithLove.jpg" alt="Paris Rực Lửa - From Paris With Love" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/paris-ruc-lua_280.html" alt="{film.NAME}" title="Paris Rực Lửa - From Paris With Love"> Paris Rực Lửa ...</a></p>
+                						<p class="views">Lượt xem: 2112</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/khong-the-tuong-tuong_262.html" title="Không Thể Tưởng Tượng - Unthinkable"><img src="http://4.bp.blogspot.com/_pbu2OzI9WjQ/TKPzMapt-BI/AAAAAAAAADw/I8T40R_jjl8/s1600/Khong+the+tuong+tuong.jpg" alt="Không Thể Tưởng Tượng - Unthinkable" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/khong-the-tuong-tuong_262.html" alt="{film.NAME}" title="Không Thể Tưởng Tượng - Unthinkable"> Không Thể Tưởng ...</a></p>
+                						<p class="views">Lượt xem: 2120</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/tap-doan-sat-thu_274.html" title="Tập Đoàn Sát Thủ - Machete"><img src="http://3.bp.blogspot.com/_pbu2OzI9WjQ/TKcLwckUBvI/AAAAAAAAAD4/YC-hgPVdJx8/s1600/machete+poster.jpg" alt="Tập Đoàn Sát Thủ - Machete" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/tap-doan-sat-thu_274.html" alt="{film.NAME}" title="Tập Đoàn Sát Thủ - Machete"> Tập Đoàn Sát ...</a></p>
+                						<p class="views">Lượt xem: 10024</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/luat-khong-khoan-nhuong_273.html" title="Luật Không Khoan Nhượng - No Mercy For The Rule"><img src="http://1.bp.blogspot.com/_2chwtc8RoJ0/TKc9vzNs7qI/AAAAAAAAAIU/1yqMMz6ftxw/s1600/luatchonguoithaythe.jpg" alt="Luật Không Khoan Nhượng - No Mercy For The Rule" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/luat-khong-khoan-nhuong_273.html" alt="{film.NAME}" title="Luật Không Khoan Nhượng - No Mercy For The Rule"> Luật Không Khoan ...</a></p>
+                						<p class="views">Lượt xem: 1639</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/dinh-menh_265.html" title="Định Mệnh - inglourious basterds"><img src="http://2.bp.blogspot.com/_2chwtc8RoJ0/TKR79hZpNHI/AAAAAAAAAHY/1JVyn8pNs-A/s400/InglouriousBasterds2009.jpg" alt="Định Mệnh - inglourious basterds" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/dinh-menh_265.html" alt="{film.NAME}" title="Định Mệnh - inglourious basterds"> Định Mệnh - ...</a></p>
+                						<p class="views">Lượt xem: 1880</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/con-moi--nguoi-chi-diem_257.html" title="Con Mồi - Người Chỉ Điểm - The Stool Pigeon"><img src="http://1.bp.blogspot.com/_pbu2OzI9WjQ/TKBlZvqEnCI/AAAAAAAAADg/aLkRF7Vwi8U/s1600/The+stool+pigeon.jpg" alt="Con Mồi - Người Chỉ Điểm - The Stool Pigeon" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/con-moi--nguoi-chi-diem_257.html" alt="{film.NAME}" title="Con Mồi - Người Chỉ Điểm - The Stool Pigeon"> Con Mồi - ...</a></p>
+                						<p class="views">Lượt xem: 1624</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/vuot-nguc-2_178.html" title="Vượt Ngục 2 - Prison Break Season 2"><img src="http://2.bp.blogspot.com/_o5eqZU8vsfw/TKAIsoTjmII/AAAAAAAAAFc/dJjYFk9O81o/s1600/vuot-nguc-2.jpg" alt="Vượt Ngục 2 - Prison Break Season 2" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/vuot-nguc-2_178.html" alt="{film.NAME}" title="Vượt Ngục 2 - Prison Break Season 2"> Vượt Ngục 2 ...</a></p>
+                						<p class="views">Lượt xem: 1973</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/buc-chan-dung-cua-quy-du_259.html" title="Bức Chân Dung Của Quỷ Dữ - Dorian Gray"><img src="http://3.bp.blogspot.com/_2chwtc8RoJ0/TKGU6Hc_x4I/AAAAAAAAAGk/o8wgvFQo0rM/s1600/chandungquydu.jpg" alt="Bức Chân Dung Của Quỷ Dữ - Dorian Gray" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/buc-chan-dung-cua-quy-du_259.html" alt="{film.NAME}" title="Bức Chân Dung Của Quỷ Dữ - Dorian Gray"> Bức Chân Dung ...</a></p>
+                						<p class="views">Lượt xem: 966</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/sieu-dac-vu-macgruber_255.html" title="Siêu đặc vụ Macgruber - Macgruber"><img src="http://3.bp.blogspot.com/_2chwtc8RoJ0/TKAo_hOyAbI/AAAAAAAAAGM/akaxet0QypU/s1600/1.jpg" alt="Siêu đặc vụ Macgruber - Macgruber" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/sieu-dac-vu-macgruber_255.html" alt="{film.NAME}" title="Siêu đặc vụ Macgruber - Macgruber"> Siêu đặc vụ ...</a></p>
+                						<p class="views">Lượt xem: 1436</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/mat-dai-bang_253.html" title="Mắt Đại Bàng - Eagle Eye"><img src="http://img.tamtay.vn/files/photo2/2010/9/26/20/750297/4c9f4b87_33b97002_eagle-eye-poster.jpg" alt="Mắt Đại Bàng - Eagle Eye" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/mat-dai-bang_253.html" alt="{film.NAME}" title="Mắt Đại Bàng - Eagle Eye"> Mắt Đại Bàng ...</a></p>
+                						<p class="views">Lượt xem: 1412</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/moi-lien-he-chet-nguoi_190.html" title="Mối Liên Hệ Chết Người - Wild Things: Foursome"><img src="http://img.tamtay.vn/files/photo2/2010/9/4/12/1412317/4c81d4ac_446a424b_wild%20things%20foursome%202010-poster.jpg" alt="Mối Liên Hệ Chết Người - Wild Things: Foursome" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/moi-lien-he-chet-nguoi_190.html" alt="{film.NAME}" title="Mối Liên Hệ Chết Người - Wild Things: Foursome"> Mối Liên Hệ ...</a></p>
+                						<p class="views">Lượt xem: 1611</p></li>
+</div></div>
+<div class="clear"></div>

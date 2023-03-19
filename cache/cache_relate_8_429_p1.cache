@@ -1,0 +1,23 @@
+			 <div class="block list_films">
+				<h2 class="title">Phim Cùng Thể Loại</h2>
+			<div class="content"> 
+            
+					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/rung-den_468.html" title="RỪNG ĐEN - Rung den"><img src="http://t2.gstatic.com/images?q=tbn:ANd9GcSQONy9ZxIrjFW5yLypXs11hCYznlKhe-Kpfe7LWLGsJpuA42cG" alt="RỪNG ĐEN - Rung den" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/rung-den_468.html" alt="{film.NAME}" title="RỪNG ĐEN - Rung den"> RỪNG ĐEN - ...</a></p>
+                						<p class="views">Lượt xem: 258</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/mua-len-trau_434.html" title="Mùa lên trau - "><img src="http://t1.gstatic.com/images?q=tbn:ANd9GcRbWWIrWvnAl46n7Nsill7jvXQOlNzBHJWLjV2CF0ZohzgPHoyENg" alt="Mùa lên trau - " width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/mua-len-trau_434.html" alt="{film.NAME}" title="Mùa lên trau - "> Mùa lên trau ...</a></p>
+                						<p class="views">Lượt xem: 195</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/dong-tien-dam-mau_278.html" title="Đồng Tiền Đẫm Máu - Inhale"><img src="http://4.bp.blogspot.com/_pbu2OzI9WjQ/TKhG1FFF-QI/AAAAAAAAAEI/bZmUJn746Zw/s1600/Inhale+poster.jpg" alt="Đồng Tiền Đẫm Máu - Inhale" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/dong-tien-dam-mau_278.html" alt="{film.NAME}" title="Đồng Tiền Đẫm Máu - Inhale"> Đồng Tiền Đẫm ...</a></p>
+                						<p class="views">Lượt xem: 1618</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/chet-duoi-nam-mo-2_48.html" title="Chết Dưới Nấm Mồ 2 - Death at a Funeral"><img src="http://img.tamtay.vn/files/photo2/2010/8/10/19/1227809/4c61439f_42531261_death-at-a-funeral.jpg" alt="Chết Dưới Nấm Mồ 2 - Death at a Funeral" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/chet-duoi-nam-mo-2_48.html" alt="{film.NAME}" title="Chết Dưới Nấm Mồ 2 - Death at a Funeral"> Chết Dưới Nấm ...</a></p>
+                						<p class="views">Lượt xem: 1698</p></li>
+</div></div>
+<div class="clear"></div>

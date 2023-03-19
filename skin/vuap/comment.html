@@ -1,0 +1,54 @@
+<div id="comment">
+<form method="post" onSubmit="return false;" name="add">
+<input value="{film.ID}" type="hidden" id="film_id">
+<input value="{limit.COMMENT}" type="hidden" id="num">
+<table width="100%" border="0" cellspacing="2" cellpadding="2">
+	<tr><td >
+	<!-- BEGIN comment_block -->
+	<!-- #BEGIN comment -->
+	<table width=98% cellpadding=0 cellspacing=5>
+	<tr><td align="left" valign=top><table><tr><td width="50px"><a href="{user.URL}"> <img src="{user.AVATAR}" width="50px" height="50px;" border="0" /></a></td>
+	<td align="left" valign="top" style="padding-left:5px;">
+	 <span class="CommentTitle"><b><a href="{user.URL}"  style="color:{user.COLOR};font-weight:bold" >{comment.POSTER}</span></a> </b>	<div style="padding-top:2px">{comment.CONTENT}</div><span class="time">
+
+	</td></tr></table>
+	</td>
+	</tr></table>
+	<!-- #END comment -->
+	<!-- END comment_block -->
+		
+	<div align=center>{pages.COMMENT}</div>
+	</td></tr>
+	<!-- BEGIN write_comment -->
+	<tr><td >
+	<div id="comment_loading" style="display:none;margin-bottom:3px;padding-top:3px;"></div>
+	</td></tr>
+	<tr>
+		<td align=center style="padding-top:5px;">
+		<img style="cursor:pointer;border:0px;" onclick="document.getElementById('comment_content').value += ':)';return false;" src="{web.LINK}/images/emoticons/1.gif" border="0">
+		<img style="cursor:pointer;border:0px;" onclick="document.getElementById('comment_content').value += ':(';return false;" src="{web.LINK}/images/emoticons/2.gif" border="0">
+		<img style="cursor:pointer;border:0px;" onclick="document.getElementById('comment_content').value += ';)';return false;" src="{web.LINK}/images/emoticons/3.gif" border="0">
+		<img style="cursor:pointer;border:0px;" onclick="document.getElementById('comment_content').value += ':D';return false;" src="{web.LINK}/images/emoticons/4.gif" border="0">
+		<img style="cursor:pointer;border:0px;" onclick="document.getElementById('comment_content').value += ';;)';return false;" src="{web.LINK}/images/emoticons/5.gif" border="0">
+		<img style="cursor:pointer;border:0px;" onclick="document.getElementById('comment_content').value += '>:D<';return false;" src="{web.LINK}/images/emoticons/6.gif" border="0">
+		<img style="cursor:pointer;border:0px;" onclick="document.getElementById('comment_content').value += '=((';return false;" src="{web.LINK}/images/emoticons/12.gif" border="0">
+		<img style="cursor:pointer;border:0px;" onclick="document.getElementById('comment_content').value += ':X';return false;" src="{web.LINK}/images/emoticons/8.gif" border="0">
+		<img style="cursor:pointer;border:0px;" onclick="document.getElementById('comment_content').value += '8-}';return false;" src="{web.LINK}/images/emoticons/35.gif" border="0">
+		<img style="cursor:pointer;border:0px;" onclick="document.getElementById('comment_content').value += ':P';return false;" src="{web.LINK}/images/emoticons/10.gif" border="0">
+		<img style="cursor:pointer;border:0px;" onclick="document.getElementById('comment_content').value += '=))';return false;" src="{web.LINK}/images/emoticons/24.gif" border="0">
+		[<a href="http://messenger.yahoo.com/emoticons.php" target="_blank">{lang[more]}</a>]
+		</td></tr>
+		<tr>
+		<td align=center style="padding-top:5px;">
+		<textarea id="comment_content" name="comment_content" style="width:400px" rows="5" wrap="hard" onkeydown="textCounter(this.form.comment_content,this.form.remLentext,250);" onkeyup="textCounter(this.form.comment_content,this.form.remLentext,250);" onclick="this.select()">{lang[comment_note]}</textarea></td></tr>		
+		<tr><td align="center" style="padding-top:5px;">{lang[content_limit]}&nbsp;&nbsp;		
+		<input name="comment_poster" id="comment_poster" style="display:none" value="{user.SESSION}"/>
+	<!--	<input name="comment_sec" id="comment_sec" style="display:none" value="4988"/>-->
+		<!--<input name="user_group" id="user_group" style="display:none" value="{user.GROUP}"/>-->
+	   <input class="button" type="submit" value="{lang[send]}" onClick="return comment_check_values();"></td></tr>
+	<!-- END write_comment -->
+</table>
+</form>
+<table width="100%" height="7" border="0" cellspacing="0" cellpadding="0" background="{skin.LINK}/img/bottombg_c.png">
+<tr><td></td></tr></table>
+</div>

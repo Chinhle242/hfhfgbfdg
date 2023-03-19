@@ -1,0 +1,11 @@
+			 <div class="block list_films">
+				<h2 class="title">Phim Cùng Thể Loại</h2>
+			<div class="content"> 
+            
+					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/benh-dien_69.html" title="Bệnh Điên - The Crazies"><img src="http://img.tamtay.vn/files/photo2/2010/8/14/16/750297/4c6665d9_76de2332_the-crazies.jpg" alt="Bệnh Điên - The Crazies" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/benh-dien_69.html" alt="{film.NAME}" title="Bệnh Điên - The Crazies"> Bệnh Điên - ...</a></p>
+                						<p class="views">Lượt xem: 2148</p></li>
+</div></div>
+<div class="clear"></div>

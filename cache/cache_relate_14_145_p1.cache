@@ -1,0 +1,19 @@
+			 <div class="block list_films">
+				<h2 class="title">Phim Cùng Thể Loại</h2>
+			<div class="content"> 
+            
+					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/ke-bat-tu_272.html" title="Kẻ Bất Tử - 22 Bullets"><img src="http://2.bp.blogspot.com/_fEGexqLDsvY/TKdBPrUOF0I/AAAAAAAAACI/y0fl1tAULnI/s1600/22-Bullets.jpg" alt="Kẻ Bất Tử - 22 Bullets" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/ke-bat-tu_272.html" alt="{film.NAME}" title="Kẻ Bất Tử - 22 Bullets"> Kẻ Bất Tử ...</a></p>
+                						<p class="views">Lượt xem: 572</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/vi-thanh-tra-2-mat_215.html" title="Vị Thanh Tra 2 Mặt - Joker Yurusarezaru Sosakan"><img src="http://1.bp.blogspot.com/_o5eqZU8vsfw/TJ8xgFacbiI/AAAAAAAAAFY/fVprjDDdz9A/s1600/Joker-Yurusarezaru-Sosakan.jpg" alt="Vị Thanh Tra 2 Mặt - Joker Yurusarezaru Sosakan" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/vi-thanh-tra-2-mat_215.html" alt="{film.NAME}" title="Vị Thanh Tra 2 Mặt - Joker Yurusarezaru Sosakan"> Vị Thanh Tra ...</a></p>
+                						<p class="views">Lượt xem: 452</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/tinh-bao_169.html" title="Tình Báo - Rendition"><img src="http://img.tamtay.vn/files/photo2/2010/8/30/22/750297/4c7bce5f_5def95cb_rendition.jpg" alt="Tình Báo - Rendition" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/tinh-bao_169.html" alt="{film.NAME}" title="Tình Báo - Rendition"> Tình Báo - ...</a></p>
+                						<p class="views">Lượt xem: 315</p></li>
+</div></div>
+<div class="clear"></div>

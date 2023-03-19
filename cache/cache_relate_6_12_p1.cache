@@ -1,0 +1,55 @@
+			 <div class="block list_films">
+				<h2 class="title">Phim Cùng Thể Loại</h2>
+			<div class="content"> 
+            
+					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/tan-tinh-vo-mon_422.html" title="Tân Tinh Võ Môn - "><img src="http://xemphimfree.net/uploads/1170310412.jpg" alt="Tân Tinh Võ Môn - " width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/tan-tinh-vo-mon_422.html" alt="{film.NAME}" title="Tân Tinh Võ Môn - "> Tân Tinh Võ ...</a></p>
+                						<p class="views">Lượt xem: 309</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/dich-nhan-kiet_346.html" title="Địch Nhân Kiệt - dich nhan kiet 2010"><img src="http://upanh.tv/images/70439058429197288648.jpg" alt="Địch Nhân Kiệt - dich nhan kiet 2010" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/dich-nhan-kiet_346.html" alt="{film.NAME}" title="Địch Nhân Kiệt - dich nhan kiet 2010"> Địch Nhân Kiệt ...</a></p>
+                						<p class="views">Lượt xem: 7763</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/tan-y-thien-do-long-ky_390.html" title="Tân Ỷ Thiên Đồ Long Ký - Heaven Sword And Dragon Sabre"><img src="http://3.bp.blogspot.com/_2chwtc8RoJ0/TNuNmDq9aiI/AAAAAAAAAQw/LfO3a80qe1E/s400/T%25C3%25A2n%2B%25E1%25BB%25B6%2BThi%25C3%25AAn%2B%25C4%2590%25E1%25BB%2593%2BLong%2BK%25C3%25BD.jpg" alt="Tân Ỷ Thiên Đồ Long Ký - Heaven Sword And Dragon Sabre" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/tan-y-thien-do-long-ky_390.html" alt="{film.NAME}" title="Tân Ỷ Thiên Đồ Long Ký - Heaven Sword And Dragon Sabre"> Tân Ỷ Thiên ...</a></p>
+                						<p class="views">Lượt xem: 6691</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/thien-sat-than-binh_382.html" title="Thiên Sát Thần Binh - The Divine Weapon"><img src="http://4.bp.blogspot.com/_2chwtc8RoJ0/TNbXS4c0U6I/AAAAAAAAAP4/bVHQ9vLKPEw/s400/The-Divine-Weapon-poster.jpg" alt="Thiên Sát Thần Binh - The Divine Weapon" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/thien-sat-than-binh_382.html" alt="{film.NAME}" title="Thiên Sát Thần Binh - The Divine Weapon"> Thiên Sát Thần ...</a></p>
+                						<p class="views">Lượt xem: 3752</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/cam-ve-quan_355.html" title="Cấm Vệ Quân - Hero"><img src="http://4.bp.blogspot.com/_fEGexqLDsvY/TMl6MGMwifI/AAAAAAAAAEo/-ws7NXWzD0M/s1600/Hero.jpg" alt="Cấm Vệ Quân - Hero" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/cam-ve-quan_355.html" alt="{film.NAME}" title="Cấm Vệ Quân - Hero"> Cấm Vệ Quân ...</a></p>
+                						<p class="views">Lượt xem: 4103</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/7-vi-la-han_339.html" title="7 Vị La Hán - Seven Arhat"><img src="http://4.bp.blogspot.com/_2chwtc8RoJ0/TMGn74ZBurI/AAAAAAAAAM4/PSE9lwlHSps/s400/7vilahan.jpg" alt="7 Vị La Hán - Seven Arhat" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/7-vi-la-han_339.html" alt="{film.NAME}" title="7 Vị La Hán - Seven Arhat"> 7 Vị La ...</a></p>
+                						<p class="views">Lượt xem: 6029</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/sat-thu-huyen-thoai_325.html" title="Sát Thủ Huyền Thoại - Legendary Assassin"><img src="http://4.bp.blogspot.com/_2chwtc8RoJ0/TLyGL2wWRzI/AAAAAAAAALw/3Xg_WJQJHA0/s400/huyenthoaisatthu.jpg" alt="Sát Thủ Huyền Thoại - Legendary Assassin" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/sat-thu-huyen-thoai_325.html" alt="{film.NAME}" title="Sát Thủ Huyền Thoại - Legendary Assassin"> Sát Thủ Huyền ...</a></p>
+                						<p class="views">Lượt xem: 5164</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/thap-nguyet-vi-thanh_310.html" title="Thập Nguyệt Vi Thành - Bodyguards & Asassins"><img src="http://1.bp.blogspot.com/_fEGexqLDsvY/TLb4P-zNaSI/AAAAAAAAAD4/eDEBYlWFpxE/s1600/Bodyguards-Asassins.jpg" alt="Thập Nguyệt Vi Thành - Bodyguards & Asassins" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/thap-nguyet-vi-thanh_310.html" alt="{film.NAME}" title="Thập Nguyệt Vi Thành - Bodyguards & Asassins"> Thập Nguyệt Vi ...</a></p>
+                						<p class="views">Lượt xem: 2799</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/thap-dien-mai-phuc_261.html" title="Thập Diện Mai Phục - House of Flying Daggers"><img src="http://4.bp.blogspot.com/_fEGexqLDsvY/TKNZA2PnXqI/AAAAAAAAABo/wWGox1HScUY/s1600/House-of-Flying-Daggers-poster.jpg" alt="Thập Diện Mai Phục - House of Flying Daggers" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/thap-dien-mai-phuc_261.html" alt="{film.NAME}" title="Thập Diện Mai Phục - House of Flying Daggers"> Thập Diện Mai ...</a></p>
+                						<p class="views">Lượt xem: 2372</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/thai-cuc-quyen_242.html" title="Thái Cực Quyền - The Tai Chi Master"><img src="http://img.tamtay.vn/files/photo2/2010/9/22/0/750297/4c98f157_22e590a4_tai_chi_master.jpg" alt="Thái Cực Quyền - The Tai Chi Master" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/thai-cuc-quyen_242.html" alt="{film.NAME}" title="Thái Cực Quyền - The Tai Chi Master"> Thái Cực Quyền ...</a></p>
+                						<p class="views">Lượt xem: 5927</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/ai-huu-lai-sinh_237.html" title="Ái Hữu Lai Sinh - Eternal Beloved"><img src="http://img.tamtay.vn/files/photo2/2010/9/21/14/750297/4c9863a1_61da0905_eternal%20beloved.gif" alt="Ái Hữu Lai Sinh - Eternal Beloved" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/ai-huu-lai-sinh_237.html" alt="{film.NAME}" title="Ái Hữu Lai Sinh - Eternal Beloved"> Ái Hữu Lai ...</a></p>
+                						<p class="views">Lượt xem: 3373</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/tan-loc-dinh-ky_57.html" title="Tân Lộc Đỉnh Ký - Tan Loc Dinh Ky"><img src="http://1.bp.blogspot.com/_2chwtc8RoJ0/TJjjDQbVYcI/AAAAAAAAAEw/-zAJ5rZ46rQ/s400/tan-doc-dinh-ky--tan-loc-dinh-ky-20.jpg" alt="Tân Lộc Đỉnh Ký - Tan Loc Dinh Ky" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/tan-loc-dinh-ky_57.html" alt="{film.NAME}" title="Tân Lộc Đỉnh Ký - Tan Loc Dinh Ky"> Tân Lộc Đỉnh ...</a></p>
+                						<p class="views">Lượt xem: 1807</p></li>
+</div></div>
+<div class="clear"></div>

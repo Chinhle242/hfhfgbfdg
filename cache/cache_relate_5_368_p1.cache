@@ -1,0 +1,55 @@
+			 <div class="block list_films">
+				<h2 class="title">Phim Cùng Thể Loại</h2>
+			<div class="content"> 
+            
+					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/grave-of-the-fireflies_497.html" title="Grave Of The Fireflies - Hầm mộ đom đóm"><img src="http://t0.gstatic.com/images?q=tbn:ANd9GcSjpIJIQmPO3ieLrM8ONrNaeHkrJ7uDxdNi4BY2BOqoFlqDuX5V" alt="Grave Of The Fireflies - Hầm mộ đom đóm" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/grave-of-the-fireflies_497.html" alt="{film.NAME}" title="Grave Of The Fireflies - Hầm mộ đom đóm"> Grave Of The ...</a></p>
+                						<p class="views">Lượt xem: 31</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/rio_455.html" title="Rio - "><img src="http://t3.gstatic.com/images?q=tbn:ANd9GcRA3QRqjga1UHGAPm2K0zD7qW7C_z8Nx3pFfqslp3PLsYdi4tB_" alt="Rio - " width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/rio_455.html" alt="{film.NAME}" title="Rio - ">Rio - </a></p>
+                						<p class="views">Lượt xem: 120</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/cars_471.html" title="Cars - - Vương Quốc Xe Hơi"><img src="http://t3.gstatic.com/images?q=tbn:ANd9GcSRN61vyMPEK6xfolkOCnaPBaMQzEE21y2a1wbk3KVvGShfxL-h" alt="Cars - - Vương Quốc Xe Hơi" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/cars_471.html" alt="{film.NAME}" title="Cars - - Vương Quốc Xe Hơi"> Cars - - ...</a></p>
+                						<p class="views">Lượt xem: 80</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/yu-gi-oh!-gx_393.html" title="Yu-Gi-Oh! GX"><img src="http://2.bp.blogspot.com/_fEGexqLDsvY/TN5kGqr_cjI/AAAAAAAAAE4/PNEXm1_tTcg/s320/Yu-Gi-Oh-GX.jpg" alt="Yu-Gi-Oh! GX" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/yu-gi-oh!-gx_393.html" alt="{film.NAME}" title="Yu-Gi-Oh! GX">Yu-Gi-Oh! GX</a></p>
+                						<p class="views">Lượt xem: 2052</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/vua-su-tu-2-su-kieu-hanh-cua-simba--the-lion-king-ii-simbas-pride_367.html" title="Vua Sư Tử 2: Sự Kiêu Hãnh Của Simba - The Lion King II: Simbas Pride"><img src="http://i929.photobucket.com/albums/ad136/lancuoia/1274781427-the-lion-king-2.jpg" alt="Vua Sư Tử 2: Sự Kiêu Hãnh Của Simba - The Lion King II: Simbas Pride" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/vua-su-tu-2-su-kieu-hanh-cua-simba--the-lion-king-ii-simbas-pride_367.html" alt="{film.NAME}" title="Vua Sư Tử 2: Sự Kiêu Hãnh Của Simba - The Lion King II: Simbas Pride"> Vua Sư Tử ...</a></p>
+                						<p class="views">Lượt xem: 795</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/vua-su-tu-1--the-lion-king_365.html" title="Vua Sư Tử 1 - The Lion King"><img src="http://i929.photobucket.com/albums/ad136/lancuoia/vua-su-tu-1--the-lion-king-1.jpg" alt="Vua Sư Tử 1 - The Lion King" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/vua-su-tu-1--the-lion-king_365.html" alt="{film.NAME}" title="Vua Sư Tử 1 - The Lion King"> Vua Sư Tử ...</a></p>
+                						<p class="views">Lượt xem: 665</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/alvin-and-chip-munks-ii-the-squeakel_342.html" title="Alvin And Chip munks II: The Squeakel"><img src="http://i39.tinypic.com/2noznl.jpgjpg" alt="Alvin And Chip munks II: The Squeakel" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/alvin-and-chip-munks-ii-the-squeakel_342.html" alt="{film.NAME}" title="Alvin And Chip munks II: The Squeakel"> Alvin And Chip ...</a></p>
+                						<p class="views">Lượt xem: 687</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/ky-bang-ha_331.html" title="Kỷ Băng Hà - Ice Age"><img src="http://3.bp.blogspot.com/_2chwtc8RoJ0/TL7BjZ6lHJI/AAAAAAAAAMA/O494TpykahU/s400/193.jpg" alt="Kỷ Băng Hà - Ice Age" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/ky-bang-ha_331.html" alt="{film.NAME}" title="Kỷ Băng Hà - Ice Age"> Kỷ Băng Hà ...</a></p>
+                						<p class="views">Lượt xem: 1185</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/hanh-trinh-qua-dai-ngan-ha_317.html" title="Hành Trình Qua Dải Ngân Hà - Doraemon"><img src="http://1.bp.blogspot.com/_fEGexqLDsvY/TLqGRD8MDaI/AAAAAAAAAEA/rPVm3aPl-do/s1600/doraemon.jpg" alt="Hành Trình Qua Dải Ngân Hà - Doraemon" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/hanh-trinh-qua-dai-ngan-ha_317.html" alt="{film.NAME}" title="Hành Trình Qua Dải Ngân Hà - Doraemon"> Hành Trình Qua ...</a></p>
+                						<p class="views">Lượt xem: 1601</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/sintel_311.html" title="Sintel"><img src="http://1.bp.blogspot.com/_2chwtc8RoJ0/TLcBrd0K_rI/AAAAAAAAAJw/ayvAvhxsiNE/s400/sintel2010.jpg" alt="Sintel" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/sintel_311.html" alt="{film.NAME}" title="Sintel">Sintel</a></p>
+                						<p class="views">Lượt xem: 3340</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/nhan-ngu-dai-chien_246.html" title="Nhân Ngư Đại Chiến - Eiga Doraemon: Nobita no ningyo daikaisen"><img src="http://4.bp.blogspot.com/_pbu2OzI9WjQ/TJrFnydULPI/AAAAAAAAACU/VdxOSxjnwns/s1600/nhan+ngu+dai+chien.jpg" alt="Nhân Ngư Đại Chiến - Eiga Doraemon: Nobita no ningyo daikaisen" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/nhan-ngu-dai-chien_246.html" alt="{film.NAME}" title="Nhân Ngư Đại Chiến - Eiga Doraemon: Nobita no ningyo daikaisen"> Nhân Ngư Đại ...</a></p>
+                						<p class="views">Lượt xem: 2373</p></li>					
+					<li><div class="poster">
+  									<a href="http://vuaphim.vn/thong-tin/bi-kip-luyen-rong_49.html" title="Bí Kíp Luyện Rồng - How to Train Your Dragon"><img src="http://3.bp.blogspot.com/_pbu2OzI9WjQ/TJjbGkX-HaI/AAAAAAAAAB0/4KsGx6Iaq-c/s1600/Bi-kip-luyen-rong-poster.jpg" alt="Bí Kíp Luyện Rồng - How to Train Your Dragon" width="120" height="160" /></a></div>
+                   					 <p class="name"><a href="http://vuaphim.vn/thong-tin/bi-kip-luyen-rong_49.html" alt="{film.NAME}" title="Bí Kíp Luyện Rồng - How to Train Your Dragon"> Bí Kíp Luyện ...</a></p>
+                						<p class="views">Lượt xem: 1851</p></li>
+</div></div>
+<div class="clear"></div>
